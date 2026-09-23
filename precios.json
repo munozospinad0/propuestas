@@ -22,7 +22,7 @@
           "meta",
           "dash"
         ],
-        "implementacion": 0,
+        "implementacion": 150,
         "mensual": 190,
         "permanencia": "3 meses"
       },
@@ -35,7 +35,7 @@
           "google",
           "dash"
         ],
-        "implementacion": 0,
+        "implementacion": 200,
         "mensual": 250,
         "permanencia": "3 meses"
       },
@@ -48,7 +48,7 @@
           "tiktok",
           "dash"
         ],
-        "implementacion": 0,
+        "implementacion": 200,
         "mensual": 250,
         "permanencia": "3 meses"
       },
@@ -62,7 +62,7 @@
           "tiktok",
           "dash"
         ],
-        "implementacion": 0,
+        "implementacion": 300,
         "mensual": 310,
         "permanencia": "3 meses"
       },
@@ -73,8 +73,8 @@
         "incluye": [
           "wa"
         ],
-        "implementacion": 450,
-        "mensual": 45,
+        "implementacion": 350,
+        "mensual": 60,
         "permanencia": "Sin permanencia"
       },
       {
@@ -86,8 +86,8 @@
           "dash",
           "wa"
         ],
-        "implementacion": 550,
-        "mensual": 230,
+        "implementacion": 500,
+        "mensual": 200,
         "permanencia": "3 meses"
       }
     ]
