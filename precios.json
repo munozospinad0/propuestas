@@ -105,8 +105,8 @@
         "incluye": [
           "crm"
         ],
-        "implementacion": 450,
-        "mensual": 290,
+        "implementacion": 500,
+        "mensual": 100,
         "permanencia": "Sin permanencia"
       },
       {
@@ -118,7 +118,7 @@
           "crm"
         ],
         "implementacion": 550,
-        "mensual": 420,
+        "mensual": 250,
         "permanencia": "3 meses"
       },
       {
@@ -130,8 +130,8 @@
           "google",
           "crm"
         ],
-        "implementacion": 650,
-        "mensual": 480,
+        "implementacion": 600,
+        "mensual": 350,
         "permanencia": "3 meses"
       },
       {
@@ -143,8 +143,8 @@
           "tiktok",
           "crm"
         ],
-        "implementacion": 650,
-        "mensual": 480,
+        "implementacion": 600,
+        "mensual": 350,
         "permanencia": "3 meses"
       },
       {
@@ -157,8 +157,8 @@
           "tiktok",
           "crm"
         ],
-        "implementacion": 750,
-        "mensual": 540,
+        "implementacion": 650,
+        "mensual": 450,
         "permanencia": "3 meses"
       },
       {
@@ -170,8 +170,8 @@
           "wa",
           "crm"
         ],
-        "implementacion": 850,
-        "mensual": 460,
+        "implementacion": 800,
+        "mensual": 350,
         "permanencia": "3 meses"
       },
       {
@@ -186,8 +186,8 @@
           "web",
           "crm"
         ],
-        "implementacion": 1750,
-        "mensual": 580,
+        "implementacion": 1000,
+        "mensual": 600,
         "permanencia": "6 meses"
       },
       {
@@ -198,7 +198,7 @@
           "web"
         ],
         "tipo": "proyecto",
-        "pago_unico": 1300,
+        "pago_unico": 250,
         "mantenimiento": 20,
         "nota": "Si contratan también la pauta, el sitio queda en USD 950."
       },
@@ -209,8 +209,8 @@
         "incluye": [
           "seo"
         ],
-        "implementacion": 450,
-        "mensual": 350,
+        "implementacion": 350,
+        "mensual": 40,
         "permanencia": "6 meses",
         "nota": "Si nos contratan también el sitio web, la puesta en marcha queda en USD 250."
       }
