@@ -1,0 +1,219 @@
+{
+  "_LEEME": [
+    "ESTE ES EL ÚNICO ARCHIVO QUE HAY QUE TOCAR PARA CAMBIAR PRECIOS.",
+    "Todos los montos van en USD y sin el signo $. Ej.: 290, no \"$290\".",
+    "implementacion = lo que se cobra el PRIMER MES (incluye montar todo y la gestión de ese mes). 0 = sin implementación.",
+    "mensual = lo que se cobra desde el MES 2 (o todos los meses si implementacion es 0).",
+    "Paquetes tipo 'proyecto' (sitio web): pago_unico + mantenimiento (al mes, desde el año 2).",
+    "incluye = piezas del paquete. Opciones: meta, google, tiktok, dash, crm, wa, web, seo.",
+    "Después de editar: node gen_props.mjs   (regenera las propuestas en dist/)"
+  ],
+  "ecus": {
+    "marca": "ECUS Agency",
+    "correo": "hola@ecus.agency",
+    "telefono": "+507 0000-0000",
+    "pauta_minima": 200,
+    "paquetes": [
+      {
+        "id": "E1",
+        "archivo": "ECUS-1_Pauta-Meta-Dashboard",
+        "titulo": "Pauta Meta + Dashboard",
+        "incluye": [
+          "meta",
+          "dash"
+        ],
+        "implementacion": 0,
+        "mensual": 190,
+        "permanencia": "3 meses"
+      },
+      {
+        "id": "E2",
+        "archivo": "ECUS-2_Pauta-Meta-Google-Dashboard",
+        "titulo": "Pauta Meta + Google Ads + Dashboard",
+        "incluye": [
+          "meta",
+          "google",
+          "dash"
+        ],
+        "implementacion": 0,
+        "mensual": 250,
+        "permanencia": "3 meses"
+      },
+      {
+        "id": "E3",
+        "archivo": "ECUS-3_Pauta-Meta-TikTok-Dashboard",
+        "titulo": "Pauta Meta + TikTok Ads + Dashboard",
+        "incluye": [
+          "meta",
+          "tiktok",
+          "dash"
+        ],
+        "implementacion": 0,
+        "mensual": 250,
+        "permanencia": "3 meses"
+      },
+      {
+        "id": "E4",
+        "archivo": "ECUS-4_Pauta-Meta-Google-TikTok-Dashboard",
+        "titulo": "Pauta Meta + Google Ads + TikTok Ads + Dashboard",
+        "incluye": [
+          "meta",
+          "google",
+          "tiktok",
+          "dash"
+        ],
+        "implementacion": 0,
+        "mensual": 310,
+        "permanencia": "3 meses"
+      },
+      {
+        "id": "E5",
+        "archivo": "ECUS-5_Agente-WhatsApp",
+        "titulo": "Agente de WhatsApp",
+        "incluye": [
+          "wa"
+        ],
+        "implementacion": 450,
+        "mensual": 45,
+        "permanencia": "Sin permanencia"
+      },
+      {
+        "id": "E6",
+        "archivo": "ECUS-6_Pauta-Dashboard-Agente",
+        "titulo": "Pauta Meta + Dashboard + Agente de WhatsApp",
+        "incluye": [
+          "meta",
+          "dash",
+          "wa"
+        ],
+        "implementacion": 550,
+        "mensual": 230,
+        "permanencia": "3 meses"
+      }
+    ]
+  },
+  "afterads": {
+    "marca": "After Ads",
+    "correo": "correo@afterads",
+    "telefono": "+507 0000-0000",
+    "pauta_minima": 300,
+    "paquetes": [
+      {
+        "id": "A1",
+        "archivo": "AfterAds-1_CRM",
+        "titulo": "CRM a la medida",
+        "incluye": [
+          "crm"
+        ],
+        "implementacion": 450,
+        "mensual": 290,
+        "permanencia": "Sin permanencia"
+      },
+      {
+        "id": "A2",
+        "archivo": "AfterAds-2_CRM-Pauta-Meta",
+        "titulo": "CRM + Pauta Meta",
+        "incluye": [
+          "meta",
+          "crm"
+        ],
+        "implementacion": 550,
+        "mensual": 420,
+        "permanencia": "3 meses"
+      },
+      {
+        "id": "A3",
+        "archivo": "AfterAds-3_CRM-Meta-Google",
+        "titulo": "CRM + Pauta Meta + Google Ads",
+        "incluye": [
+          "meta",
+          "google",
+          "crm"
+        ],
+        "implementacion": 650,
+        "mensual": 480,
+        "permanencia": "3 meses"
+      },
+      {
+        "id": "A4",
+        "archivo": "AfterAds-4_CRM-Meta-TikTok",
+        "titulo": "CRM + Pauta Meta + TikTok Ads",
+        "incluye": [
+          "meta",
+          "tiktok",
+          "crm"
+        ],
+        "implementacion": 650,
+        "mensual": 480,
+        "permanencia": "3 meses"
+      },
+      {
+        "id": "A5",
+        "archivo": "AfterAds-5_CRM-Meta-Google-TikTok",
+        "titulo": "CRM + Pauta Meta + Google Ads + TikTok Ads",
+        "incluye": [
+          "meta",
+          "google",
+          "tiktok",
+          "crm"
+        ],
+        "implementacion": 750,
+        "mensual": 540,
+        "permanencia": "3 meses"
+      },
+      {
+        "id": "A6",
+        "archivo": "AfterAds-6_CRM-Meta-Agente",
+        "titulo": "CRM + Pauta Meta + Agente de WhatsApp",
+        "incluye": [
+          "meta",
+          "wa",
+          "crm"
+        ],
+        "implementacion": 850,
+        "mensual": 460,
+        "permanencia": "3 meses"
+      },
+      {
+        "id": "A7",
+        "archivo": "AfterAds-7_Sistema-Completo",
+        "titulo": "Sistema completo: CRM + Meta + Google + TikTok + Agente + Sitio web",
+        "incluye": [
+          "meta",
+          "google",
+          "tiktok",
+          "wa",
+          "web",
+          "crm"
+        ],
+        "implementacion": 1750,
+        "mensual": 580,
+        "permanencia": "6 meses"
+      },
+      {
+        "id": "A8",
+        "archivo": "AfterAds-8_Sitio-Web",
+        "titulo": "Sitio web con medición",
+        "incluye": [
+          "web"
+        ],
+        "tipo": "proyecto",
+        "pago_unico": 1300,
+        "mantenimiento": 20,
+        "nota": "Si contratan también la pauta, el sitio queda en USD 950."
+      },
+      {
+        "id": "A9",
+        "archivo": "AfterAds-9_SEO-e-IA",
+        "titulo": "SEO + visibilidad en IA",
+        "incluye": [
+          "seo"
+        ],
+        "implementacion": 450,
+        "mensual": 350,
+        "permanencia": "6 meses",
+        "nota": "Si nos contratan también el sitio web, la puesta en marcha queda en USD 250."
+      }
+    ]
+  }
+}

@@ -4,6 +4,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='24' fill='%233E2A9B'/><circle cx='76' cy='27' r='10' fill='%23FE881C'/><text x='47' y='73' font-size='60' font-family='Arial' font-weight='bold' fill='white' text-anchor='middle'>E</text></svg>"><link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+[hidden]{display:none!important}
 html{-webkit-print-color-adjust:exact;print-color-adjust:exact}
 body{line-height:1.55;font-size:10.5pt}
 .sheet{position:relative;width:210mm;min-height:297mm;margin:8mm auto;background:#fff;overflow:hidden;box-shadow:0 10px 40px rgba(20,20,60,.16);display:flex;flex-direction:column}
@@ -237,15 +238,23 @@ Este aviso no sale en el PDF.</div>
     <h2 class="h2">Inversión</h2>
     <div class="offer" style="margin-bottom:6mm">
       <div class="offerh"><div class="k">ECUS Agency</div><div class="t">Pauta Meta + Dashboard</div></div>
-      <div class="prow"><div><b>Plan mensual</b><span class="d">Sin costo de implementación</span></div>
-      <div class="amt">$<span class="ed" contenteditable="true">190</span> <small>/mes</small></div></div>
+      <div class="prow" data-when="E1:flat"><div><b>Plan mensual</b><span class="d">Sin costo de implementación</span></div>
+      <div class="amt">$<span class="ed" contenteditable="true" data-k="E1.mensual">190</span> <small>/mes</small></div></div>
+    <div class="prow impl" data-when="E1:impl" hidden><div><b>Primer mes: implementación</b>
+      <span class="d">Montar y configurar todo, más la gestión de ese mes</span></div>
+      <div class="amt">$<span class="ed" contenteditable="true" data-k="E1.implementacion">0</span></div></div>
+    <div class="prow" data-when="E1:impl" hidden><div><b>Desde el mes 2</b>
+      <span class="d">Gestión, soporte, ajustes y optimización</span></div>
+      <div class="amt">$<span class="ed" contenteditable="true" data-k="E1.mensual">190</span> <small>/mes</small></div></div>
+    <div class="why" data-when="E1:impl" hidden><b>¿Por qué el primer mes es mayor?</b> Incluye la <b>implementación completa</b>:
+      dejar todo creado, conectado y probado. Desde el <b>segundo mes</b> pagas solo la mensualidad.</div>
       <div class="incltitle">Incluye</div>
       <ul class="incl"><li>Estructura y gestión de campañas en Facebook e Instagram</li><li>Pruebas de ángulos y públicos, optimización semanal</li><li>Dashboard en vivo: inversión, leads y costo por lead</li><li>Reporte mensual con lo que funcionó y lo que sigue</li></ul>
       
     </div>
     <div class="card acc ten" style="margin-bottom:6mm">
       <h3 style="margin-bottom:2.5mm">Qué tener en cuenta</h3>
-      <div class="g2" style="gap:1.5mm 6mm"><p>– El fee mensual es <b>gestión + herramientas</b>.</p><p>– La <b>inversión en pauta</b> (Meta) va aparte, desde $<span class="ed" contenteditable="true">200</span>/mes.</p><p>– Permanencia mínima sugerida: <span class="ed" contenteditable="true">3 meses</span>.</p></div>
+      <div class="g2" style="gap:1.5mm 6mm"><p>– El fee mensual es <b>gestión + herramientas</b>.</p><p>– La <b>inversión en pauta</b> (Meta) va aparte, desde $<span class="ed" contenteditable="true" data-k="ecus.pauta_minima">200</span>/mes.</p><p>– Permanencia mínima sugerida: <span class="ed" contenteditable="true">3 meses</span>.</p></div>
     </div>
     <h3 style="margin-bottom:3.5mm">Cómo arrancamos</h3>
     <div class="g3"><div class="step"><div class="stepn">1</div><div><h5>Confirmación</h5><p>Confirmas la propuesta y damos de alta el proyecto.</p></div></div><div class="step"><div class="stepn">2</div><div><h5>Implementación</h5><p>Configuramos campañas y tablero (5 a 7 días hábiles).</p></div></div><div class="step"><div class="stepn">3</div><div><h5>En vivo</h5><p>Arranca todo; medimos y ajustamos cada semana.</p></div></div></div>
@@ -260,4 +269,20 @@ Este aviso no sale en el PDF.</div>
   </div>
   <div class="sfoot"><span>ECUS Agency · Propuesta comercial</span><span>4 / 4</span></div>
 </div>
+<script>
+(function(){
+  var fmt=function(n){return Number(n).toLocaleString('en-US')};
+  document.addEventListener('input',function(e){var t=e.target.closest&&e.target.closest('[data-k]');if(t)t.dataset.tocado='1';});
+  function resumen(o){return o.tipo==='proyecto'?'Pago único <b>$'+fmt(o.pago_unico)+'</b> · luego $'+fmt(o.mantenimiento)+'/mes'
+    :Number(o.implementacion)?'1er mes <b>$'+fmt(o.implementacion)+'</b> · luego <b>$'+fmt(o.mensual)+'</b>/mes':'<b>$'+fmt(o.mensual)+'</b>/mes, sin implementación';}
+  window.aplicarPrecios=function(P){
+    var by={};['ecus','afterads'].forEach(function(m){by[m]=P[m];P[m].paquetes.forEach(function(o){by[o.id]=o;});});
+    document.querySelectorAll('[data-k]').forEach(function(el){if(el.dataset.tocado)return;var k=el.dataset.k.split('.'),o=by[k[0]];if(o&&o[k[1]]!=null)el.textContent=fmt(o[k[1]]);});
+    document.querySelectorAll('[data-when]').forEach(function(el){var k=el.dataset.when.split(':'),o=by[k[0]];if(!o)return;var imp=Number(o.implementacion||0);el.hidden=k[1]==='impl'?!imp:!!imp;});
+    document.querySelectorAll('[data-res]').forEach(function(el){var o=by[el.dataset.res];if(o)el.innerHTML=resumen(o);});
+    window.__P=P;
+  };
+  fetch('../precios.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null}).then(function(P){if(P)aplicarPrecios(P);}).catch(function(){});
+})();
+</script>
 </body></html>

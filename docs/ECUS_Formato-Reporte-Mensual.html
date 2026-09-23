@@ -5,6 +5,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='24' fill='%233E2A9B'/><circle cx='76' cy='27' r='10' fill='%23FE881C'/><text x='47' y='73' font-size='60' font-family='Arial' font-weight='bold' fill='white' text-anchor='middle'>E</text></svg>"><link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
 <style>
 *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+[hidden]{display:none!important}
 html{-webkit-print-color-adjust:exact;print-color-adjust:exact}
 body{line-height:1.55;font-size:10.5pt}
 .sheet{position:relative;width:210mm;min-height:297mm;margin:8mm auto;background:#fff;overflow:hidden;box-shadow:0 10px 40px rgba(20,20,60,.16);display:flex;flex-direction:column}
@@ -361,6 +362,22 @@ ventas), el reporte lo dice así y no lo muestra como cero: un cero que viene de
   function chk(){ if (innerWidth < 800) return;
     document.querySelectorAll('.sheet').forEach(function(s){ s.classList.toggle('over', s.offsetHeight > A4); }); }
   addEventListener('load', chk); document.addEventListener('input', chk);
+})();
+</script>
+<script>
+(function(){
+  var fmt=function(n){return Number(n).toLocaleString('en-US')};
+  document.addEventListener('input',function(e){var t=e.target.closest&&e.target.closest('[data-k]');if(t)t.dataset.tocado='1';});
+  function resumen(o){return o.tipo==='proyecto'?'Pago único <b>$'+fmt(o.pago_unico)+'</b> · luego $'+fmt(o.mantenimiento)+'/mes'
+    :Number(o.implementacion)?'1er mes <b>$'+fmt(o.implementacion)+'</b> · luego <b>$'+fmt(o.mensual)+'</b>/mes':'<b>$'+fmt(o.mensual)+'</b>/mes, sin implementación';}
+  window.aplicarPrecios=function(P){
+    var by={};['ecus','afterads'].forEach(function(m){by[m]=P[m];P[m].paquetes.forEach(function(o){by[o.id]=o;});});
+    document.querySelectorAll('[data-k]').forEach(function(el){if(el.dataset.tocado)return;var k=el.dataset.k.split('.'),o=by[k[0]];if(o&&o[k[1]]!=null)el.textContent=fmt(o[k[1]]);});
+    document.querySelectorAll('[data-when]').forEach(function(el){var k=el.dataset.when.split(':'),o=by[k[0]];if(!o)return;var imp=Number(o.implementacion||0);el.hidden=k[1]==='impl'?!imp:!!imp;});
+    document.querySelectorAll('[data-res]').forEach(function(el){var o=by[el.dataset.res];if(o)el.innerHTML=resumen(o);});
+    window.__P=P;
+  };
+  fetch('../precios.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null}).then(function(P){if(P)aplicarPrecios(P);}).catch(function(){});
 })();
 </script>
 </body></html>
