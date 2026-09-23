@@ -238,15 +238,15 @@ Este aviso no sale en el PDF.</div>
     <h2 class="h2">Inversión</h2>
     <div class="offer" style="margin-bottom:6mm">
       <div class="offerh"><div class="k">ECUS Agency</div><div class="t">Pauta Meta + Dashboard</div></div>
-      <div class="prow" data-when="E1:flat"><div><b>Plan mensual</b><span class="d">Sin costo de implementación</span></div>
-      <div class="amt">$<span class="ed" contenteditable="true" data-k="E1.mensual">190</span> <small>/mes</small></div></div>
-    <div class="prow impl" data-when="E1:impl" hidden><div><b>Primer mes: implementación</b>
+      <div class="prow" data-when="E1:flat" hidden><div><b>Plan mensual</b><span class="d">Sin costo de implementación</span></div>
+      <div class="amt">$<span class="ed" contenteditable="true" data-k="E1.mensual">250</span> <small>/mes</small></div></div>
+    <div class="prow impl" data-when="E1:impl"><div><b>Primer mes: implementación</b>
       <span class="d">Montar y configurar todo, más la gestión de ese mes</span></div>
-      <div class="amt">$<span class="ed" contenteditable="true" data-k="E1.implementacion">0</span></div></div>
-    <div class="prow" data-when="E1:impl" hidden><div><b>Desde el mes 2</b>
+      <div class="amt">$<span class="ed" contenteditable="true" data-k="E1.implementacion">150</span></div></div>
+    <div class="prow" data-when="E1:impl"><div><b>Desde el mes 2</b>
       <span class="d">Gestión, soporte, ajustes y optimización</span></div>
-      <div class="amt">$<span class="ed" contenteditable="true" data-k="E1.mensual">190</span> <small>/mes</small></div></div>
-    <div class="why" data-when="E1:impl" hidden><b>¿Por qué el primer mes es mayor?</b> Incluye la <b>implementación completa</b>:
+      <div class="amt">$<span class="ed" contenteditable="true" data-k="E1.mensual">250</span> <small>/mes</small></div></div>
+    <div class="why" data-when="E1:impl"><b>¿Por qué el primer mes es mayor?</b> Incluye la <b>implementación completa</b>:
       dejar todo creado, conectado y probado. Desde el <b>segundo mes</b> pagas solo la mensualidad.</div>
       <div class="incltitle">Incluye</div>
       <ul class="incl"><li>Estructura y gestión de campañas en Facebook e Instagram</li><li>Pruebas de ángulos y públicos, optimización semanal</li><li>Dashboard en vivo: inversión, leads y costo por lead</li><li>Reporte mensual con lo que funcionó y lo que sigue</li></ul>
@@ -282,7 +282,8 @@ Este aviso no sale en el PDF.</div>
     document.querySelectorAll('[data-res]').forEach(function(el){var o=by[el.dataset.res];if(o)el.innerHTML=resumen(o);});
     window.__P=P;
   };
-  fetch('../precios.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null}).then(function(P){if(P)aplicarPrecios(P);}).catch(function(){});
+  /* siempre el del enlace único: así también se actualizan los enlaces viejos y las copias del Escritorio */
+  fetch('https://munozospinad0.github.io/propuestas/precios.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null}).then(function(P){if(P)aplicarPrecios(P);}).catch(function(){});
 })();
 </script>
 </body></html>

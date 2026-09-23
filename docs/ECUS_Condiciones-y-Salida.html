@@ -401,7 +401,8 @@ licencia o la migración de tus datos a otra herramienta.</p>
     document.querySelectorAll('[data-res]').forEach(function(el){var o=by[el.dataset.res];if(o)el.innerHTML=resumen(o);});
     window.__P=P;
   };
-  fetch('../precios.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null}).then(function(P){if(P)aplicarPrecios(P);}).catch(function(){});
+  /* siempre el del enlace único: así también se actualizan los enlaces viejos y las copias del Escritorio */
+  fetch('https://munozospinad0.github.io/propuestas/precios.json?t='+Date.now(),{cache:'no-store'}).then(function(r){return r.ok?r.json():null}).then(function(P){if(P)aplicarPrecios(P);}).catch(function(){});
 })();
 </script>
 </body></html>
