@@ -2,7 +2,7 @@
 %ìåãû ReportLab Generated PDF document (opensource)
 1 0 obj
 <<
-/F1 2 0 R /F2+0 192 0 R /F3+0 196 0 R
+/F1 2 0 R /F2+0 186 0 R /F3+0 190 0 R
 >>
 endobj
 2 0 obj
@@ -317,7 +317,7 @@ endobj
 39 0 obj
 <<
 /Annots [ 8 0 R 11 0 R 14 0 R 17 0 R 20 0 R 23 0 R 26 0 R 29 0 R 32 0 R 35 0 R 
-  38 0 R ] /Contents 200 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 199 0 R /Resources <<
+  38 0 R ] /Contents 194 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 193 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
 /FormXob.20b1975ec34b9f990d8076ce46c23d69 3 0 R
 >>
@@ -520,7 +520,7 @@ endobj
   /Ff 0 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
 >> /MaxLen 100 /P 81 0 R /Rect [ 46 644.9458 549.2756 665.9458 ] /Subtype /Widget 
-  /T (p18) /TU (\277A qu\351 zonas, ciudades o pa\355ses llegan?) /Type /Annot /V ()
+  /T (p18) /TU (\277A qu\351 zonas o ciudades llegan?) /Type /Annot /V ()
 >>
 endobj
 57 0 obj
@@ -734,7 +734,7 @@ endobj
 81 0 obj
 <<
 /Annots [ 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 53 0 R 56 0 R 59 0 R 62 0 R 65 0 R 
-  68 0 R 71 0 R 74 0 R 77 0 R 80 0 R ] /Contents 201 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 199 0 R /Resources <<
+  68 0 R 71 0 R 74 0 R 77 0 R 80 0 R ] /Contents 195 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 193 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
 /FormXob.20b1975ec34b9f990d8076ce46c23d69 3 0 R
 >>
@@ -759,7 +759,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 46 681.9178 57 692.9178 ] /Subtype /Widget /T (c27) 
+>> /P 135 0 R /Rect [ 46 681.9178 57 692.9178 ] /Subtype /Widget /T (c27) 
   /TU (\277Por d\363nde te llegan los clientes hoy? \267 WhatsApp) /Type /Annot /V /Off
 >>
 endobj
@@ -778,7 +778,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 213.7585 681.9178 224.7585 692.9178 ] /Subtype /Widget /T (c28) 
+>> /P 135 0 R /Rect [ 213.7585 681.9178 224.7585 692.9178 ] /Subtype /Widget /T (c28) 
   /TU (\277Por d\363nde te llegan los clientes hoy? \267 Instagram) /Type /Annot /V /Off
 >>
 endobj
@@ -797,7 +797,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 381.5171 681.9178 392.5171 692.9178 ] /Subtype /Widget /T (c29) 
+>> /P 135 0 R /Rect [ 381.5171 681.9178 392.5171 692.9178 ] /Subtype /Widget /T (c29) 
   /TU (\277Por d\363nde te llegan los clientes hoy? \267 Facebook) /Type /Annot /V /Off
 >>
 endobj
@@ -816,7 +816,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 46 662.9178 57 673.9178 ] /Subtype /Widget /T (c30) 
+>> /P 135 0 R /Rect [ 46 662.9178 57 673.9178 ] /Subtype /Widget /T (c30) 
   /TU (\277Por d\363nde te llegan los clientes hoy? \267 TikTok) /Type /Annot /V /Off
 >>
 endobj
@@ -835,7 +835,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 213.7585 662.9178 224.7585 673.9178 ] /Subtype /Widget /T (c31) 
+>> /P 135 0 R /Rect [ 213.7585 662.9178 224.7585 673.9178 ] /Subtype /Widget /T (c31) 
   /TU (\277Por d\363nde te llegan los clientes hoy? \267 Google) /Type /Annot /V /Off
 >>
 endobj
@@ -854,7 +854,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 381.5171 662.9178 392.5171 673.9178 ] /Subtype /Widget /T (c32) 
+>> /P 135 0 R /Rect [ 381.5171 662.9178 392.5171 673.9178 ] /Subtype /Widget /T (c32) 
   /TU (\277Por d\363nde te llegan los clientes hoy? \267 Llamadas) /Type /Annot /V /Off
 >>
 endobj
@@ -873,7 +873,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 46 643.9178 57 654.9178 ] /Subtype /Widget /T (c33) 
+>> /P 135 0 R /Rect [ 46 643.9178 57 654.9178 ] /Subtype /Widget /T (c33) 
   /TU (\277Por d\363nde te llegan los clientes hoy? \267 En el local) /Type /Annot /V /Off
 >>
 endobj
@@ -892,7 +892,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 213.7585 643.9178 224.7585 654.9178 ] /Subtype /Widget /T (c34) 
+>> /P 135 0 R /Rect [ 213.7585 643.9178 224.7585 654.9178 ] /Subtype /Widget /T (c34) 
   /TU (\277Por d\363nde te llegan los clientes hoy? \267 Recomendaci\363n) /Type /Annot /V /Off
 >>
 endobj
@@ -911,7 +911,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 381.5171 643.9178 392.5171 654.9178 ] /Subtype /Widget /T (c35) 
+>> /P 135 0 R /Rect [ 381.5171 643.9178 392.5171 654.9178 ] /Subtype /Widget /T (c35) 
   /TU (\277Por d\363nde te llegan los clientes hoy? \267 P\341gina web) /Type /Annot /V /Off
 >>
 endobj
@@ -930,7 +930,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 46 624.9178 57 635.9178 ] /Subtype /Widget /T (c36) 
+>> /P 135 0 R /Rect [ 46 624.9178 57 635.9178 ] /Subtype /Widget /T (c36) 
   /TU (\277Por d\363nde te llegan los clientes hoy? \267 Otro) /Type /Annot /V /Off
 >>
 endobj
@@ -954,7 +954,7 @@ endobj
 >> /DA (/Helv 9 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
   /Ff 0 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 129 0 R /Rect [ 86.648 622.9178 203.7585 636.9178 ] /Subtype /Widget 
+>> /MaxLen 100 /P 135 0 R /Rect [ 86.648 622.9178 203.7585 636.9178 ] /Subtype /Widget 
   /T (p37) /TU (\277Por d\363nde te llegan los clientes hoy? \267 Otro: \277cu\341l?) /Type /Annot /V ()
 >>
 endobj
@@ -963,13 +963,12 @@ endobj
 endobj
 96 0 obj
 <<
-/BBox [ 0 0 503.2756 38 ] /Filter [ /FlateDecode ] /FormType 1 /Length 137 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 95 0 R>> >> 
+/BBox [ 0 0 503.2756 21 ] /Filter [ /FlateDecode ] /FormType 1 /Length 138 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 95 0 R>> >> 
   /Subtype /Form /Type /XObject
 >>
 stream
-xúMN9AÎÛ
-ø $ìd'”≤B[mB‚@á|f®÷íù&>∏EiÆ‡6IMÔ7›‘Ò∫ì@b\jDì’TX‚u•qÕ,‡‘ÓÕÓ¥úN|∫:C
-˚6√aïÀHy”Ó¸≈~ùAORû0",€ˇ	Ê¸oΩ–£œ”:“aùÈç‡&¢endstream
+xúMé±
+AD˚|≈|ALvì€lÎ!W]°~Å⁄	ûÖ~æŸÓì@òyw/›‹'iay√™∂'	.ïKsÔ‚Æ™é¢ÿÓÙ n•:84≥ë…:óÖÑﬂ‹Ü!ó¬∂gäpîÆ?◊Ù&Â	C.¬≤˜Áª%1˝7ze≠Qm°3ù÷ô˛áE&ìendstream
 endobj
 97 0 obj
 <<
@@ -977,11 +976,11 @@ endobj
 /N 96 0 R
 >> /BS <<
 /S /S /W .8
->> /DA (/Helv 9 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
-  /Ff 4096 /MK <<
+>> /DA (/Helv 10 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
+  /Ff 0 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 129 0 R /Rect [ 46 551.9458 549.2756 589.9458 ] /Subtype /Widget 
-  /T (p38) /TU (\277Qui\351n atiende a los interesados? Nombres, cu\341ntas personas y en qu\351 horario contestan.) /Type /Annot /V ()
+>> /MaxLen 100 /P 135 0 R /Rect [ 46 568.9458 549.2756 589.9458 ] /Subtype /Widget 
+  /T (p38) /TU (\277Cu\341ntas personas atienden a los interesados?) /Type /Annot /V ()
 >>
 endobj
 98 0 obj
@@ -999,7 +998,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 46 507.9738 57 518.9738 ] /Subtype /Widget /T (c39) 
+>> /P 135 0 R /Rect [ 46 524.9738 57 535.9738 ] /Subtype /Widget /T (c39) 
   /TU (Cuando alguien escribe, \277en cu\341nto tiempo le responden, m\341s o menos? \267 Menos de 5 minutos) /Type /Annot /V /Off
 >>
 endobj
@@ -1018,7 +1017,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 213.7585 507.9738 224.7585 518.9738 ] /Subtype /Widget /T (c40) 
+>> /P 135 0 R /Rect [ 213.7585 524.9738 224.7585 535.9738 ] /Subtype /Widget /T (c40) 
   /TU (Cuando alguien escribe, \277en cu\341nto tiempo le responden, m\341s o menos? \267 Menos de 1 hora) /Type /Annot /V /Off
 >>
 endobj
@@ -1037,7 +1036,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 381.5171 507.9738 392.5171 518.9738 ] /Subtype /Widget /T (c41) 
+>> /P 135 0 R /Rect [ 381.5171 524.9738 392.5171 535.9738 ] /Subtype /Widget /T (c41) 
   /TU (Cuando alguien escribe, \277en cu\341nto tiempo le responden, m\341s o menos? \267 El mismo d\355a) /Type /Annot /V /Off
 >>
 endobj
@@ -1056,7 +1055,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 46 488.9738 57 499.9738 ] /Subtype /Widget /T (c42) 
+>> /P 135 0 R /Rect [ 46 505.9738 57 516.9738 ] /Subtype /Widget /T (c42) 
   /TU (Cuando alguien escribe, \277en cu\341nto tiempo le responden, m\341s o menos? \267 Al d\355a siguiente o m\341s) /Type /Annot /V /Off
 >>
 endobj
@@ -1075,7 +1074,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 46 441.0018 57 452.0018 ] /Subtype /Widget /T (c43) 
+>> /P 135 0 R /Rect [ 46 458.0018 57 469.0018 ] /Subtype /Widget /T (c43) 
   /TU (\277D\363nde anotan a los clientes y a los interesados? \267 En ning\372n lado) /Type /Annot /V /Off
 >>
 endobj
@@ -1094,7 +1093,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 297.6378 441.0018 308.6378 452.0018 ] /Subtype /Widget /T (c44) 
+>> /P 135 0 R /Rect [ 297.6378 458.0018 308.6378 469.0018 ] /Subtype /Widget /T (c44) 
   /TU (\277D\363nde anotan a los clientes y a los interesados? \267 Cuaderno) /Type /Annot /V /Off
 >>
 endobj
@@ -1113,7 +1112,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 46 422.0018 57 433.0018 ] /Subtype /Widget /T (c45) 
+>> /P 135 0 R /Rect [ 46 439.0018 57 450.0018 ] /Subtype /Widget /T (c45) 
   /TU (\277D\363nde anotan a los clientes y a los interesados? \267 Excel o Google Sheets) /Type /Annot /V /Off
 >>
 endobj
@@ -1132,7 +1131,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 297.6378 422.0018 308.6378 433.0018 ] /Subtype /Widget /T (c46) 
+>> /P 135 0 R /Rect [ 297.6378 439.0018 308.6378 450.0018 ] /Subtype /Widget /T (c46) 
   /TU (\277D\363nde anotan a los clientes y a los interesados? \267 Etiquetas de WhatsApp Business) /Type /Annot /V /Off
 >>
 endobj
@@ -1151,7 +1150,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 46 403.0018 57 414.0018 ] /Subtype /Widget /T (c47) 
+>> /P 135 0 R /Rect [ 46 420.0018 57 431.0018 ] /Subtype /Widget /T (c47) 
   /TU (\277D\363nde anotan a los clientes y a los interesados? \267 Un CRM) /Type /Annot /V /Off
 >>
 endobj
@@ -1177,7 +1176,7 @@ endobj
 >> /DA (/Helv 9 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
   /Ff 0 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 129 0 R /Rect [ 101.345 401.0018 287.6378 415.0018 ] /Subtype /Widget 
+>> /MaxLen 100 /P 135 0 R /Rect [ 101.345 418.0018 287.6378 432.0018 ] /Subtype /Widget 
   /T (p48) /TU (\277D\363nde anotan a los clientes y a los interesados? \267 Un CRM: \277cu\341l?) /Type /Annot /V ()
 >>
 endobj
@@ -1196,7 +1195,7 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 129 0 R /Rect [ 297.6378 403.0018 308.6378 414.0018 ] /Subtype /Widget /T (c49) 
+>> /P 135 0 R /Rect [ 297.6378 420.0018 308.6378 431.0018 ] /Subtype /Widget /T (c49) 
   /TU (\277D\363nde anotan a los clientes y a los interesados? \267 Otro) /Type /Annot /V /Off
 >>
 endobj
@@ -1220,7 +1219,7 @@ endobj
 >> /DA (/Helv 9 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
   /Ff 0 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 129 0 R /Rect [ 338.2858 401.0018 539.2756 415.0018 ] /Subtype /Widget 
+>> /MaxLen 100 /P 135 0 R /Rect [ 338.2858 418.0018 539.2756 432.0018 ] /Subtype /Widget 
   /T (p50) /TU (\277D\363nde anotan a los clientes y a los interesados? \267 Otro: \277cu\341l?) /Type /Annot /V ()
 >>
 endobj
@@ -1246,7 +1245,7 @@ endobj
 >> /DA (/Helv 9 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
   /Ff 4096 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 129 0 R /Rect [ 46 303.0578 549.2756 355.0578 ] /Subtype /Widget 
+>> /MaxLen 100 /P 135 0 R /Rect [ 46 320.0578 549.2756 372.0578 ] /Subtype /Widget 
   /T (p51) /TU (\277Qu\351 pasos hay desde que alguien pregunta hasta que te paga? \(ej.: escribe, le mandamos precios, visita, cotizaci\363n, pag) /Type /Annot /V ()
 >>
 endobj
@@ -1272,7 +1271,7 @@ endobj
 >> /DA (/Helv 10 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
   /Ff 0 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 129 0 R /Rect [ 46 251.0858 290.6378 272.0858 ] /Subtype /Widget 
+>> /MaxLen 100 /P 135 0 R /Rect [ 46 268.0858 290.6378 289.0858 ] /Subtype /Widget 
   /T (p52) /TU (\277Cu\341ntos clientes nuevos tienes al mes, aproximado?) /Type /Annot /V ()
 >>
 endobj
@@ -1298,7 +1297,7 @@ endobj
 >> /DA (/Helv 10 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
   /Ff 0 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 129 0 R /Rect [ 304.6378 251.0858 549.2756 272.0858 ] /Subtype /Widget 
+>> /MaxLen 100 /P 135 0 R /Rect [ 304.6378 268.0858 549.2756 289.0858 ] /Subtype /Widget 
   /T (p53) /TU (\277Cu\341ntos te gustar\355a tener?) /Type /Annot /V ()
 >>
 endobj
@@ -1324,7 +1323,7 @@ endobj
 >> /DA (/Helv 10 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
   /Ff 0 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 129 0 R /Rect [ 46 128.8258 290.6378 149.8258 ] /Subtype /Widget 
+>> /MaxLen 100 /P 135 0 R /Rect [ 46 145.8258 290.6378 166.8258 ] /Subtype /Widget 
   /T (p54) /TU (Ventas al mes, aproximado \(en dinero\)) /Type /Annot /V ()
 >>
 endobj
@@ -1350,15 +1349,68 @@ endobj
 >> /DA (/Helv 10 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
   /Ff 0 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 129 0 R /Rect [ 304.6378 128.8258 549.2756 149.8258 ] /Subtype /Widget 
+>> /MaxLen 100 /P 135 0 R /Rect [ 304.6378 145.8258 549.2756 166.8258 ] /Subtype /Widget 
   /T (p55) /TU (\277Cu\341nto gasta en promedio cada cliente?) /Type /Annot /V ()
 >>
 endobj
 129 0 obj
+<< /BaseFont /Helvetica /Subtype /Type1 /Name /Helv /Type /Font /Encoding 5 0 R >>
+endobj
+130 0 obj
+<<
+/BBox [ 0 0 244.6378 21 ] /Filter [ /FlateDecode ] /FormType 1 /Length 139 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 129 0 R>> >> 
+  /Subtype /Form /Type /XObject
+>>
+stream
+xúMé±
+AD˚|≈|AÃf≥ólÎ!W]°~Å⁄	ûÖ~æŸÓì@òy˜¶›
+∏O‚ay√j1lO‘åßÍû.o≠Kh¡vß±Ghm‡(ôçL÷1∏,$¯Ê6©Ué=√°¬:(:\8Æ3ËMÖ'©∂ù?øû¿¥ﬂËï≠F≥ÖŒtZg˙y“&¶endstream
+endobj
+131 0 obj
+<<
+/AP <<
+/N 130 0 R
+>> /BS <<
+/S /S /W .8
+>> /DA (/Helv 10 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
+  /Ff 0 /MK <<
+/BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
+>> /MaxLen 100 /P 135 0 R /Rect [ 46 80.88176 290.6378 101.8818 ] /Subtype /Widget 
+  /T (p56) /TU (\277Cu\341nto te queda de ganancia en cada venta, m\341s o menos? \(monto o %\)) /Type /Annot /V ()
+>>
+endobj
+132 0 obj
+<< /BaseFont /Helvetica /Subtype /Type1 /Name /Helv /Type /Font /Encoding 5 0 R >>
+endobj
+133 0 obj
+<<
+/BBox [ 0 0 244.6378 21 ] /Filter [ /FlateDecode ] /FormType 1 /Length 139 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 132 0 R>> >> 
+  /Subtype /Form /Type /XObject
+>>
+stream
+xúMé±
+AD˚|≈|AÃf≥ólÎ!W]°~Å⁄	ûÖ~æŸÓì@òy˜¶›
+∏O‚ay√j1lO‘åßÍû.o≠Kh¡vß±Ghm‡(ôçL÷1∏,$¯Ê6©Ué=√°¬:(:\8Æ3ËMÖ'©∂ù?øû¿¥ﬂËï≠F≥ÖŒtZg˙y“&¶endstream
+endobj
+134 0 obj
+<<
+/AP <<
+/N 133 0 R
+>> /BS <<
+/S /S /W .8
+>> /DA (/Helv 10 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
+  /Ff 0 /MK <<
+/BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
+>> /MaxLen 100 /P 135 0 R /Rect [ 304.6378 80.88176 549.2756 101.8818 ] /Subtype /Widget 
+  /T (p57) /TU (\277Un cliente te vuelve a comprar? \277Cada cu\341nto?) /Type /Annot /V ()
+>>
+endobj
+135 0 obj
 <<
 /Annots [ 82 0 R 83 0 R 84 0 R 85 0 R 86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 
   94 0 R 97 0 R 98 0 R 99 0 R 100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 
-  106 0 R 109 0 R 110 0 R 113 0 R 116 0 R 119 0 R 122 0 R 125 0 R 128 0 R ] /Contents 202 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 199 0 R /Resources <<
+  106 0 R 109 0 R 110 0 R 113 0 R 116 0 R 119 0 R 122 0 R 125 0 R 128 0 R 131 0 R 
+  134 0 R ] /Contents 196 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 193 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
 /FormXob.20b1975ec34b9f990d8076ce46c23d69 3 0 R
 >>
@@ -1368,81 +1420,61 @@ endobj
 >> /Type /Page
 >>
 endobj
-130 0 obj
-<< /BaseFont /Helvetica /Subtype /Type1 /Name /Helv /Type /Font /Encoding 5 0 R >>
-endobj
-131 0 obj
-<<
-/BBox [ 0 0 244.6378 21 ] /Filter [ /FlateDecode ] /FormType 1 /Length 139 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 130 0 R>> >> 
-  /Subtype /Form /Type /XObject
->>
-stream
-xúMé±
-AD˚|≈|AÃf≥ólÎ!W]°~Å⁄	ûÖ~æŸÓì@òy˜¶›
-∏O‚ay√j1lO‘åßÍû.o≠Kh¡vß±Ghm‡(ôçL÷1∏,$¯Ê6©Ué=√°¬:(:\8Æ3ËMÖ'©∂ù?øû¿¥ﬂËï≠F≥ÖŒtZg˙y“&¶endstream
-endobj
-132 0 obj
-<<
-/AP <<
-/N 131 0 R
->> /BS <<
-/S /S /W .8
->> /DA (/Helv 10 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
-  /Ff 0 /MK <<
-/BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 167 0 R /Rect [ 46 698.9458 290.6378 719.9458 ] /Subtype /Widget 
-  /T (p56) /TU (\277Cu\341nto te queda de ganancia en cada venta, m\341s o menos? \(monto o %\)) /Type /Annot /V ()
->>
-endobj
-133 0 obj
-<< /BaseFont /Helvetica /Subtype /Type1 /Name /Helv /Type /Font /Encoding 5 0 R >>
-endobj
-134 0 obj
-<<
-/BBox [ 0 0 244.6378 21 ] /Filter [ /FlateDecode ] /FormType 1 /Length 139 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 133 0 R>> >> 
-  /Subtype /Form /Type /XObject
->>
-stream
-xúMé±
-AD˚|≈|AÃf≥ólÎ!W]°~Å⁄	ûÖ~æŸÓì@òy˜¶›
-∏O‚ay√j1lO‘åßÍû.o≠Kh¡vß±Ghm‡(ôçL÷1∏,$¯Ê6©Ué=√°¬:(:\8Æ3ËMÖ'©∂ù?øû¿¥ﬂËï≠F≥ÖŒtZg˙y“&¶endstream
-endobj
-135 0 obj
-<<
-/AP <<
-/N 134 0 R
->> /BS <<
-/S /S /W .8
->> /DA (/Helv 10 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
-  /Ff 0 /MK <<
-/BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 167 0 R /Rect [ 304.6378 698.9458 549.2756 719.9458 ] /Subtype /Widget 
-  /T (p57) /TU (\277Un cliente te vuelve a comprar? \277Cada cu\341nto?) /Type /Annot /V ()
->>
-endobj
 136 0 obj
-<< /BaseFont /Helvetica /Subtype /Type1 /Name /Helv /Type /Font /Encoding 5 0 R >>
+<<
+/AP <<
+/D <<
+/Off 43 0 R /Yes 42 0 R
+>> /N <<
+/Off 41 0 R /Yes 40 0 R
+>> /R <<
+/Off 45 0 R /Yes 44 0 R
+>>
+>> /AS /Off /BS <<
+/S /S /W .8
+>> /F 4 /FT /Btn /Ff 2 
+  /H /N /MK <<
+/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
+>> /P 171 0 R /Rect [ 46 719.9178 57 730.9178 ] /Subtype /Widget /T (c58) 
+  /TU (\277Cu\341nto puedes invertir al mes en publicidad \(lo que se paga a Meta, Google o TikTok\)? \267 Menos de $200) /Type /Annot /V /Off
+>>
 endobj
 137 0 obj
 <<
-/BBox [ 0 0 503.2756 21 ] /Filter [ /FlateDecode ] /FormType 1 /Length 138 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 136 0 R>> >> 
-  /Subtype /Form /Type /XObject
+/AP <<
+/D <<
+/Off 43 0 R /Yes 42 0 R
+>> /N <<
+/Off 41 0 R /Yes 40 0 R
+>> /R <<
+/Off 45 0 R /Yes 44 0 R
 >>
-stream
-xúMé±
-AD˚|≈|ALvì€lÎ!W]°~Å⁄	ûÖ~æŸÓì@òyw/›‹'iay√™∂'	.ïKsÔ‚Æ™é¢ÿÓÙ n•:84≥ë…:óÖÑﬂ‹Ü!ó¬∂gäpîÆ?◊Ù&Â	C.¬≤˜Áª%1˝7ze≠Qm°3ù÷ô˛áE&ìendstream
+>> /AS /Off /BS <<
+/S /S /W .8
+>> /F 4 /FT /Btn /Ff 2 
+  /H /N /MK <<
+/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
+>> /P 171 0 R /Rect [ 213.7585 719.9178 224.7585 730.9178 ] /Subtype /Widget /T (c59) 
+  /TU (\277Cu\341nto puedes invertir al mes en publicidad \(lo que se paga a Meta, Google o TikTok\)? \267 $200 a $500) /Type /Annot /V /Off
+>>
 endobj
 138 0 obj
 <<
 /AP <<
-/N 137 0 R
->> /BS <<
+/D <<
+/Off 43 0 R /Yes 42 0 R
+>> /N <<
+/Off 41 0 R /Yes 40 0 R
+>> /R <<
+/Off 45 0 R /Yes 44 0 R
+>>
+>> /AS /Off /BS <<
 /S /S /W .8
->> /DA (/Helv 10 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
-  /Ff 0 /MK <<
-/BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 167 0 R /Rect [ 46 646.9738 549.2756 667.9738 ] /Subtype /Widget 
-  /T (p58) /TU (\277Cu\341nto pagar\355as por conseguir un cliente nuevo y que siga siendo buen negocio?) /Type /Annot /V ()
+>> /F 4 /FT /Btn /Ff 2 
+  /H /N /MK <<
+/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
+>> /P 171 0 R /Rect [ 381.5171 719.9178 392.5171 730.9178 ] /Subtype /Widget /T (c60) 
+  /TU (\277Cu\341nto puedes invertir al mes en publicidad \(lo que se paga a Meta, Google o TikTok\)? \267 $500 a $1,000) /Type /Annot /V /Off
 >>
 endobj
 139 0 obj
@@ -1460,8 +1492,8 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 167 0 R /Rect [ 46 603.0018 57 614.0018 ] /Subtype /Widget /T (c59) 
-  /TU (\277Cu\341nto puedes invertir al mes en publicidad \(lo que se paga a Meta, Google o TikTok\)? \267 Menos de $200) /Type /Annot /V /Off
+>> /P 171 0 R /Rect [ 46 700.9178 57 711.9178 ] /Subtype /Widget /T (c61) 
+  /TU (\277Cu\341nto puedes invertir al mes en publicidad \(lo que se paga a Meta, Google o TikTok\)? \267 M\341s de $1,000) /Type /Annot /V /Off
 >>
 endobj
 140 0 obj
@@ -1479,65 +1511,34 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 167 0 R /Rect [ 213.7585 603.0018 224.7585 614.0018 ] /Subtype /Widget /T (c60) 
-  /TU (\277Cu\341nto puedes invertir al mes en publicidad \(lo que se paga a Meta, Google o TikTok\)? \267 $200 a $500) /Type /Annot /V /Off
+>> /P 171 0 R /Rect [ 213.7585 700.9178 224.7585 711.9178 ] /Subtype /Widget /T (c62) 
+  /TU (\277Cu\341nto puedes invertir al mes en publicidad \(lo que se paga a Meta, Google o TikTok\)? \267 Todav\355a no s\351) /Type /Annot /V /Off
 >>
 endobj
 141 0 obj
-<<
-/AP <<
-/D <<
-/Off 43 0 R /Yes 42 0 R
->> /N <<
-/Off 41 0 R /Yes 40 0 R
->> /R <<
-/Off 45 0 R /Yes 44 0 R
->>
->> /AS /Off /BS <<
-/S /S /W .8
->> /F 4 /FT /Btn /Ff 2 
-  /H /N /MK <<
-/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 167 0 R /Rect [ 381.5171 603.0018 392.5171 614.0018 ] /Subtype /Widget /T (c61) 
-  /TU (\277Cu\341nto puedes invertir al mes en publicidad \(lo que se paga a Meta, Google o TikTok\)? \267 $500 a $1,000) /Type /Annot /V /Off
->>
+<< /BaseFont /Helvetica /Subtype /Type1 /Name /Helv /Type /Font /Encoding 5 0 R >>
 endobj
 142 0 obj
 <<
-/AP <<
-/D <<
-/Off 43 0 R /Yes 42 0 R
->> /N <<
-/Off 41 0 R /Yes 40 0 R
->> /R <<
-/Off 45 0 R /Yes 44 0 R
+/BBox [ 0 0 503.2756 38 ] /Filter [ /FlateDecode ] /FormType 1 /Length 137 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 141 0 R>> >> 
+  /Subtype /Form /Type /XObject
 >>
->> /AS /Off /BS <<
-/S /S /W .8
->> /F 4 /FT /Btn /Ff 2 
-  /H /N /MK <<
-/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 167 0 R /Rect [ 46 584.0018 57 595.0018 ] /Subtype /Widget /T (c62) 
-  /TU (\277Cu\341nto puedes invertir al mes en publicidad \(lo que se paga a Meta, Google o TikTok\)? \267 M\341s de $1,000) /Type /Annot /V /Off
->>
+stream
+xúMN9AÎÛ
+ø $ìd'”≤B[mB‚@á|f®÷íù&>∏EiÆ‡6IMÔ7›‘Ò∫ì@b\jDì’TX‚u•qÕ,‡‘ÓÕÓ¥úN|∫:C
+˚6√aïÀHy”Ó¸≈~ùAORû0",€ˇ	Ê¸oΩ–£œ”:“aùÈç‡&¢endstream
 endobj
 143 0 obj
 <<
 /AP <<
-/D <<
-/Off 43 0 R /Yes 42 0 R
->> /N <<
-/Off 41 0 R /Yes 40 0 R
->> /R <<
-/Off 45 0 R /Yes 44 0 R
->>
->> /AS /Off /BS <<
+/N 142 0 R
+>> /BS <<
 /S /S /W .8
->> /F 4 /FT /Btn /Ff 2 
-  /H /N /MK <<
-/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 167 0 R /Rect [ 213.7585 584.0018 224.7585 595.0018 ] /Subtype /Widget /T (c63) 
-  /TU (\277Cu\341nto puedes invertir al mes en publicidad \(lo que se paga a Meta, Google o TikTok\)? \267 Todav\355a no s\351) /Type /Annot /V /Off
+>> /DA (/Helv 9 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
+  /Ff 4096 /MK <<
+/BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
+>> /MaxLen 100 /P 171 0 R /Rect [ 46 627.9458 549.2756 665.9458 ] /Subtype /Widget 
+  /T (p63) /TU (\277Han hecho publicidad antes? \277D\363nde, qui\351n la manejaba y c\363mo les fue?) /Type /Annot /V ()
 >>
 endobj
 144 0 obj
@@ -1562,8 +1563,8 @@ endobj
 >> /DA (/Helv 9 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
   /Ff 4096 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 167 0 R /Rect [ 46 511.0298 549.2756 549.0298 ] /Subtype /Widget 
-  /T (p64) /TU (\277Han hecho publicidad antes? \277D\363nde, qui\351n la manejaba y c\363mo les fue?) /Type /Annot /V ()
+>> /MaxLen 100 /P 171 0 R /Rect [ 46 520.9738 549.2756 558.9738 ] /Subtype /Widget 
+  /T (p64) /TU (\277Qu\351 te gustar\355a lograr en los pr\363ximos 3 meses?) /Type /Annot /V ()
 >>
 endobj
 147 0 obj
@@ -1588,34 +1589,65 @@ endobj
 >> /DA (/Helv 9 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
   /Ff 4096 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 167 0 R /Rect [ 46 404.0578 549.2756 442.0578 ] /Subtype /Widget 
-  /T (p65) /TU (\277Qu\351 te gustar\355a lograr en los pr\363ximos 3 meses?) /Type /Annot /V ()
+>> /MaxLen 100 /P 171 0 R /Rect [ 46 452.0018 549.2756 490.0018 ] /Subtype /Widget 
+  /T (p65) /TU (\277Qu\351 ser\355a para ti un buen resultado? Pon un n\372mero si puedes \(ej.: 30 clientes al mes, $5,000 en ventas\).) /Type /Annot /V ()
 >>
 endobj
 150 0 obj
-<< /BaseFont /Helvetica /Subtype /Type1 /Name /Helv /Type /Font /Encoding 5 0 R >>
+<<
+/AP <<
+/D <<
+/Off 43 0 R /Yes 42 0 R
+>> /N <<
+/Off 41 0 R /Yes 40 0 R
+>> /R <<
+/Off 45 0 R /Yes 44 0 R
+>>
+>> /AS /Off /BS <<
+/S /S /W .8
+>> /F 4 /FT /Btn /Ff 2 
+  /H /N /MK <<
+/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
+>> /P 171 0 R /Rect [ 46 408.0298 57 419.0298 ] /Subtype /Widget /T (c66) 
+  /TU (\277Qu\351 servicios te interesa trabajar con nosotros? \267 Publicidad en Meta \(Facebook e Instagram\)) /Type /Annot /V /Off
+>>
 endobj
 151 0 obj
 <<
-/BBox [ 0 0 503.2756 38 ] /Filter [ /FlateDecode ] /FormType 1 /Length 137 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 150 0 R>> >> 
-  /Subtype /Form /Type /XObject
+/AP <<
+/D <<
+/Off 43 0 R /Yes 42 0 R
+>> /N <<
+/Off 41 0 R /Yes 40 0 R
+>> /R <<
+/Off 45 0 R /Yes 44 0 R
 >>
-stream
-xúMN9AÎÛ
-ø $ìd'”≤B[mB‚@á|f®÷íù&>∏EiÆ‡6IMÔ7›‘Ò∫ì@b\jDì’TX‚u•qÕ,‡‘ÓÕÓ¥úN|∫:C
-˚6√aïÀHy”Ó¸≈~ùAORû0",€ˇ	Ê¸oΩ–£œ”:“aùÈç‡&¢endstream
+>> /AS /Off /BS <<
+/S /S /W .8
+>> /F 4 /FT /Btn /Ff 2 
+  /H /N /MK <<
+/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
+>> /P 171 0 R /Rect [ 297.6378 408.0298 308.6378 419.0298 ] /Subtype /Widget /T (c67) 
+  /TU (\277Qu\351 servicios te interesa trabajar con nosotros? \267 Publicidad en Google) /Type /Annot /V /Off
+>>
 endobj
 152 0 obj
 <<
 /AP <<
-/N 151 0 R
->> /BS <<
+/D <<
+/Off 43 0 R /Yes 42 0 R
+>> /N <<
+/Off 41 0 R /Yes 40 0 R
+>> /R <<
+/Off 45 0 R /Yes 44 0 R
+>>
+>> /AS /Off /BS <<
 /S /S /W .8
->> /DA (/Helv 9 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
-  /Ff 4096 /MK <<
-/BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 167 0 R /Rect [ 46 335.0858 549.2756 373.0858 ] /Subtype /Widget 
-  /T (p66) /TU (\277Qu\351 ser\355a para ti un buen resultado? Pon un n\372mero si puedes \(ej.: 30 clientes al mes, $5,000 en ventas\).) /Type /Annot /V ()
+>> /F 4 /FT /Btn /Ff 2 
+  /H /N /MK <<
+/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
+>> /P 171 0 R /Rect [ 46 389.0298 57 400.0298 ] /Subtype /Widget /T (c68) 
+  /TU (\277Qu\351 servicios te interesa trabajar con nosotros? \267 Publicidad en TikTok) /Type /Annot /V /Off
 >>
 endobj
 153 0 obj
@@ -1633,8 +1665,8 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 167 0 R /Rect [ 46 291.1138 57 302.1138 ] /Subtype /Widget /T (c67) 
-  /TU (\277Qu\351 te interesa que hagamos? \267 Publicidad en Meta \(Facebook e Instagram\)) /Type /Annot /V /Off
+>> /P 171 0 R /Rect [ 297.6378 389.0298 308.6378 400.0298 ] /Subtype /Widget /T (c69) 
+  /TU (\277Qu\351 servicios te interesa trabajar con nosotros? \267 CRM para ordenar las ventas) /Type /Annot /V /Off
 >>
 endobj
 154 0 obj
@@ -1652,8 +1684,8 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 167 0 R /Rect [ 297.6378 291.1138 308.6378 302.1138 ] /Subtype /Widget /T (c68) 
-  /TU (\277Qu\351 te interesa que hagamos? \267 Publicidad en Google) /Type /Annot /V /Off
+>> /P 171 0 R /Rect [ 46 370.0298 57 381.0298 ] /Subtype /Widget /T (c70) 
+  /TU (\277Qu\351 servicios te interesa trabajar con nosotros? \267 Agente de WhatsApp) /Type /Annot /V /Off
 >>
 endobj
 155 0 obj
@@ -1671,8 +1703,8 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 167 0 R /Rect [ 46 272.1138 57 283.1138 ] /Subtype /Widget /T (c69) 
-  /TU (\277Qu\351 te interesa que hagamos? \267 Publicidad en TikTok) /Type /Annot /V /Off
+>> /P 171 0 R /Rect [ 297.6378 370.0298 308.6378 381.0298 ] /Subtype /Widget /T (c71) 
+  /TU (\277Qu\351 servicios te interesa trabajar con nosotros? \267 Sitio web) /Type /Annot /V /Off
 >>
 endobj
 156 0 obj
@@ -1690,8 +1722,8 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 167 0 R /Rect [ 297.6378 272.1138 308.6378 283.1138 ] /Subtype /Widget /T (c70) 
-  /TU (\277Qu\351 te interesa que hagamos? \267 CRM para ordenar las ventas) /Type /Annot /V /Off
+>> /P 171 0 R /Rect [ 46 351.0298 57 362.0298 ] /Subtype /Widget /T (c72) 
+  /TU (\277Qu\351 servicios te interesa trabajar con nosotros? \267 Aparecer en Google y en IA \(SEO\)) /Type /Annot /V /Off
 >>
 endobj
 157 0 obj
@@ -1709,130 +1741,166 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 167 0 R /Rect [ 46 253.1138 57 264.1138 ] /Subtype /Widget /T (c71) 
-  /TU (\277Qu\351 te interesa que hagamos? \267 Agente de WhatsApp) /Type /Annot /V /Off
+>> /P 171 0 R /Rect [ 297.6378 351.0298 308.6378 362.0298 ] /Subtype /Widget /T (c73) 
+  /TU (\277Qu\351 servicios te interesa trabajar con nosotros? \267 Todav\355a no s\351) /Type /Annot /V /Off
 >>
 endobj
 158 0 obj
-<<
-/AP <<
-/D <<
-/Off 43 0 R /Yes 42 0 R
->> /N <<
-/Off 41 0 R /Yes 40 0 R
->> /R <<
-/Off 45 0 R /Yes 44 0 R
->>
->> /AS /Off /BS <<
-/S /S /W .8
->> /F 4 /FT /Btn /Ff 2 
-  /H /N /MK <<
-/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 167 0 R /Rect [ 297.6378 253.1138 308.6378 264.1138 ] /Subtype /Widget /T (c72) 
-  /TU (\277Qu\351 te interesa que hagamos? \267 Sitio web) /Type /Annot /V /Off
->>
+<< /BaseFont /Helvetica /Subtype /Type1 /Name /Helv /Type /Font /Encoding 5 0 R >>
 endobj
 159 0 obj
 <<
-/AP <<
-/D <<
-/Off 43 0 R /Yes 42 0 R
->> /N <<
-/Off 41 0 R /Yes 40 0 R
->> /R <<
-/Off 45 0 R /Yes 44 0 R
->>
->> /AS /Off /BS <<
-/S /S /W .8
->> /F 4 /FT /Btn /Ff 2 
-  /H /N /MK <<
-/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 167 0 R /Rect [ 46 234.1138 57 245.1138 ] /Subtype /Widget /T (c73) 
-  /TU (\277Qu\351 te interesa que hagamos? \267 Aparecer en Google y en IA \(SEO\)) /Type /Annot /V /Off
->>
-endobj
-160 0 obj
-<<
-/AP <<
-/D <<
-/Off 43 0 R /Yes 42 0 R
->> /N <<
-/Off 41 0 R /Yes 40 0 R
->> /R <<
-/Off 45 0 R /Yes 44 0 R
->>
->> /AS /Off /BS <<
-/S /S /W .8
->> /F 4 /FT /Btn /Ff 2 
-  /H /N /MK <<
-/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 167 0 R /Rect [ 297.6378 234.1138 308.6378 245.1138 ] /Subtype /Widget /T (c74) 
-  /TU (\277Qu\351 te interesa que hagamos? \267 Todav\355a no s\351) /Type /Annot /V /Off
->>
-endobj
-161 0 obj
-<< /BaseFont /Helvetica /Subtype /Type1 /Name /Helv /Type /Font /Encoding 5 0 R >>
-endobj
-162 0 obj
-<<
-/BBox [ 0 0 503.2756 38 ] /Filter [ /FlateDecode ] /FormType 1 /Length 137 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 161 0 R>> >> 
-  /Subtype /Form /Type /XObject
->>
-stream
-xúMN9AÎÛ
-ø $ìd'”≤B[mB‚@á|f®÷íù&>∏EiÆ‡6IMÔ7›‘Ò∫ì@b\jDì’TX‚u•qÕ,‡‘ÓÕÓ¥úN|∫:C
-˚6√aïÀHy”Ó¸≈~ùAORû0",€ˇ	Ê¸oΩ–£œ”:“aùÈç‡&¢endstream
-endobj
-163 0 obj
-<<
-/AP <<
-/N 162 0 R
->> /BS <<
-/S /S /W .8
->> /DA (/Helv 9 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
-  /Ff 4096 /MK <<
-/BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 167 0 R /Rect [ 46 161.1418 549.2756 199.1418 ] /Subtype /Widget 
-  /T (p75) /TU (Si trabajaste antes con una agencia o un freelancer, \277qu\351 no te gust\363?) /Type /Annot /V ()
->>
-endobj
-164 0 obj
-<< /BaseFont /Helvetica /Subtype /Type1 /Name /Helv /Type /Font /Encoding 5 0 R >>
-endobj
-165 0 obj
-<<
-/BBox [ 0 0 503.2756 21 ] /Filter [ /FlateDecode ] /FormType 1 /Length 138 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 164 0 R>> >> 
+/BBox [ 0 0 503.2756 21 ] /Filter [ /FlateDecode ] /FormType 1 /Length 138 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 158 0 R>> >> 
   /Subtype /Form /Type /XObject
 >>
 stream
 xúMé±
 AD˚|≈|ALvì€lÎ!W]°~Å⁄	ûÖ~æŸÓì@òyw/›‹'iay√™∂'	.ïKsÔ‚Æ™é¢ÿÓÙ n•:84≥ë…:óÖÑﬂ‹Ü!ó¬∂gäpîÆ?◊Ù&Â	C.¬≤˜Áª%1˝7ze≠Qm°3ù÷ô˛áE&ìendstream
 endobj
-166 0 obj
+160 0 obj
 <<
 /AP <<
-/N 165 0 R
+/N 159 0 R
 >> /BS <<
 /S /S /W .8
 >> /DA (/Helv 10 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
   /Ff 0 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 167 0 R /Rect [ 46 109.1698 549.2756 130.1698 ] /Subtype /Widget 
-  /T (p76) /TU (\277Qui\351n toma las decisiones y aprueba los anuncios?) /Type /Annot /V ()
+>> /MaxLen 100 /P 171 0 R /Rect [ 46 295.0578 549.2756 316.0578 ] /Subtype /Widget 
+  /T (p74) /TU (\277Qui\351n toma las decisiones y aprueba los anuncios?) /Type /Annot /V ()
+>>
+endobj
+161 0 obj
+<<
+/AP <<
+/D <<
+/Off 43 0 R /Yes 42 0 R
+>> /N <<
+/Off 41 0 R /Yes 40 0 R
+>> /R <<
+/Off 45 0 R /Yes 44 0 R
+>>
+>> /AS /Off /BS <<
+/S /S /W .8
+>> /F 4 /FT /Btn /Ff 2 
+  /H /N /MK <<
+/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
+>> /P 171 0 R /Rect [ 46 251.0858 57 262.0858 ] /Subtype /Widget /T (c75) 
+  /TU (\277C\363mo prefieres que te contemos los resultados? \267 WhatsApp) /Type /Annot /V /Off
+>>
+endobj
+162 0 obj
+<<
+/AP <<
+/D <<
+/Off 43 0 R /Yes 42 0 R
+>> /N <<
+/Off 41 0 R /Yes 40 0 R
+>> /R <<
+/Off 45 0 R /Yes 44 0 R
+>>
+>> /AS /Off /BS <<
+/S /S /W .8
+>> /F 4 /FT /Btn /Ff 2 
+  /H /N /MK <<
+/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
+>> /P 171 0 R /Rect [ 213.7585 251.0858 224.7585 262.0858 ] /Subtype /Widget /T (c76) 
+  /TU (\277C\363mo prefieres que te contemos los resultados? \267 Correo) /Type /Annot /V /Off
+>>
+endobj
+163 0 obj
+<<
+/AP <<
+/D <<
+/Off 43 0 R /Yes 42 0 R
+>> /N <<
+/Off 41 0 R /Yes 40 0 R
+>> /R <<
+/Off 45 0 R /Yes 44 0 R
+>>
+>> /AS /Off /BS <<
+/S /S /W .8
+>> /F 4 /FT /Btn /Ff 2 
+  /H /N /MK <<
+/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
+>> /P 171 0 R /Rect [ 381.5171 251.0858 392.5171 262.0858 ] /Subtype /Widget /T (c77) 
+  /TU (\277C\363mo prefieres que te contemos los resultados? \267 Reuni\363n por videollamada) /Type /Annot /V /Off
+>>
+endobj
+164 0 obj
+<<
+/AP <<
+/D <<
+/Off 43 0 R /Yes 42 0 R
+>> /N <<
+/Off 41 0 R /Yes 40 0 R
+>> /R <<
+/Off 45 0 R /Yes 44 0 R
+>>
+>> /AS /Off /BS <<
+/S /S /W .8
+>> /F 4 /FT /Btn /Ff 2 
+  /H /N /MK <<
+/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
+>> /P 171 0 R /Rect [ 46 232.0858 57 243.0858 ] /Subtype /Widget /T (c78) 
+  /TU (\277C\363mo prefieres que te contemos los resultados? \267 Tablero en l\355nea) /Type /Annot /V /Off
+>>
+endobj
+165 0 obj
+<<
+/AP <<
+/D <<
+/Off 43 0 R /Yes 42 0 R
+>> /N <<
+/Off 41 0 R /Yes 40 0 R
+>> /R <<
+/Off 45 0 R /Yes 44 0 R
+>>
+>> /AS /Off /BS <<
+/S /S /W .8
+>> /F 4 /FT /Btn /Ff 2 
+  /H /N /MK <<
+/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
+>> /P 171 0 R /Rect [ 46 146.1138 57 157.1138 ] /Subtype /Widget /T (c79) 
+  /TU (\277Qu\351 material tienen? \267 Logo) /Type /Annot /V /Off
+>>
+endobj
+166 0 obj
+<<
+/AP <<
+/D <<
+/Off 43 0 R /Yes 42 0 R
+>> /N <<
+/Off 41 0 R /Yes 40 0 R
+>> /R <<
+/Off 45 0 R /Yes 44 0 R
+>>
+>> /AS /Off /BS <<
+/S /S /W .8
+>> /F 4 /FT /Btn /Ff 2 
+  /H /N /MK <<
+/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
+>> /P 171 0 R /Rect [ 297.6378 146.1138 308.6378 157.1138 ] /Subtype /Widget /T (c80) 
+  /TU (\277Qu\351 material tienen? \267 Fotos propias) /Type /Annot /V /Off
 >>
 endobj
 167 0 obj
 <<
-/Annots [ 132 0 R 135 0 R 138 0 R 139 0 R 140 0 R 141 0 R 142 0 R 143 0 R 146 0 R 149 0 R 
-  152 0 R 153 0 R 154 0 R 155 0 R 156 0 R 157 0 R 158 0 R 159 0 R 160 0 R 163 0 R 
-  166 0 R ] /Contents 203 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 199 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
-/FormXob.20b1975ec34b9f990d8076ce46c23d69 3 0 R
+/AP <<
+/D <<
+/Off 43 0 R /Yes 42 0 R
+>> /N <<
+/Off 41 0 R /Yes 40 0 R
+>> /R <<
+/Off 45 0 R /Yes 44 0 R
 >>
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+>> /AS /Off /BS <<
+/S /S /W .8
+>> /F 4 /FT /Btn /Ff 2 
+  /H /N /MK <<
+/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
+>> /P 171 0 R /Rect [ 46 127.1138 57 138.1138 ] /Subtype /Widget /T (c81) 
+  /TU (\277Qu\351 material tienen? \267 Videos propios) /Type /Annot /V /Off
 >>
 endobj
 168 0 obj
@@ -1850,8 +1918,8 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 46 719.9178 57 730.9178 ] /Subtype /Widget /T (c77) 
-  /TU (\277C\363mo prefieres que te contemos los resultados? \267 WhatsApp) /Type /Annot /V /Off
+>> /P 171 0 R /Rect [ 297.6378 127.1138 308.6378 138.1138 ] /Subtype /Widget /T (c82) 
+  /TU (\277Qu\351 material tienen? \267 Manual o colores de marca) /Type /Annot /V /Off
 >>
 endobj
 169 0 obj
@@ -1869,8 +1937,8 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 213.7585 719.9178 224.7585 730.9178 ] /Subtype /Widget /T (c78) 
-  /TU (\277C\363mo prefieres que te contemos los resultados? \267 Correo) /Type /Annot /V /Off
+>> /P 171 0 R /Rect [ 46 108.1138 57 119.1138 ] /Subtype /Widget /T (c83) 
+  /TU (\277Qu\351 material tienen? \267 Testimonios o rese\361as) /Type /Annot /V /Off
 >>
 endobj
 170 0 obj
@@ -1888,27 +1956,22 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 381.5171 719.9178 392.5171 730.9178 ] /Subtype /Widget /T (c79) 
-  /TU (\277C\363mo prefieres que te contemos los resultados? \267 Reuni\363n por videollamada) /Type /Annot /V /Off
+>> /P 171 0 R /Rect [ 297.6378 108.1138 308.6378 119.1138 ] /Subtype /Widget /T (c84) 
+  /TU (\277Qu\351 material tienen? \267 Nada todav\355a) /Type /Annot /V /Off
 >>
 endobj
 171 0 obj
 <<
-/AP <<
-/D <<
-/Off 43 0 R /Yes 42 0 R
->> /N <<
-/Off 41 0 R /Yes 40 0 R
->> /R <<
-/Off 45 0 R /Yes 44 0 R
+/Annots [ 136 0 R 137 0 R 138 0 R 139 0 R 140 0 R 143 0 R 146 0 R 149 0 R 150 0 R 151 0 R 
+  152 0 R 153 0 R 154 0 R 155 0 R 156 0 R 157 0 R 160 0 R 161 0 R 162 0 R 163 0 R 
+  164 0 R 165 0 R 166 0 R 167 0 R 168 0 R 169 0 R 170 0 R ] /Contents 197 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 193 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
+/FormXob.20b1975ec34b9f990d8076ce46c23d69 3 0 R
 >>
->> /AS /Off /BS <<
-/S /S /W .8
->> /F 4 /FT /Btn /Ff 2 
-  /H /N /MK <<
-/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 46 700.9178 57 711.9178 ] /Subtype /Widget /T (c80) 
-  /TU (\277C\363mo prefieres que te contemos los resultados? \267 Tablero en l\355nea) /Type /Annot /V /Off
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
 >>
 endobj
 172 0 obj
@@ -1926,8 +1989,8 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 46 614.9458 57 625.9458 ] /Subtype /Widget /T (c81) 
-  /TU (\277Qu\351 material tienen? \267 Logo) /Type /Annot /V /Off
+>> /P 182 0 R /Rect [ 46 719.9178 57 730.9178 ] /Subtype /Widget /T (c85) 
+  /TU (\277A qu\351 tienen acceso hoy? \267 P\341gina de Facebook) /Type /Annot /V /Off
 >>
 endobj
 173 0 obj
@@ -1945,8 +2008,8 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 297.6378 614.9458 308.6378 625.9458 ] /Subtype /Widget /T (c82) 
-  /TU (\277Qu\351 material tienen? \267 Fotos propias) /Type /Annot /V /Off
+>> /P 182 0 R /Rect [ 213.7585 719.9178 224.7585 730.9178 ] /Subtype /Widget /T (c86) 
+  /TU (\277A qu\351 tienen acceso hoy? \267 Cuenta de Instagram) /Type /Annot /V /Off
 >>
 endobj
 174 0 obj
@@ -1964,8 +2027,8 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 46 595.9458 57 606.9458 ] /Subtype /Widget /T (c83) 
-  /TU (\277Qu\351 material tienen? \267 Videos propios) /Type /Annot /V /Off
+>> /P 182 0 R /Rect [ 381.5171 719.9178 392.5171 730.9178 ] /Subtype /Widget /T (c87) 
+  /TU (\277A qu\351 tienen acceso hoy? \267 Business Manager de Meta) /Type /Annot /V /Off
 >>
 endobj
 175 0 obj
@@ -1983,8 +2046,8 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 297.6378 595.9458 308.6378 606.9458 ] /Subtype /Widget /T (c84) 
-  /TU (\277Qu\351 material tienen? \267 Manual o colores de marca) /Type /Annot /V /Off
+>> /P 182 0 R /Rect [ 46 700.9178 57 711.9178 ] /Subtype /Widget /T (c88) 
+  /TU (\277A qu\351 tienen acceso hoy? \267 Cuenta de Google Ads) /Type /Annot /V /Off
 >>
 endobj
 176 0 obj
@@ -2002,8 +2065,8 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 46 576.9458 57 587.9458 ] /Subtype /Widget /T (c85) 
-  /TU (\277Qu\351 material tienen? \267 Testimonios o rese\361as) /Type /Annot /V /Off
+>> /P 182 0 R /Rect [ 213.7585 700.9178 224.7585 711.9178 ] /Subtype /Widget /T (c89) 
+  /TU (\277A qu\351 tienen acceso hoy? \267 Cuenta de TikTok) /Type /Annot /V /Off
 >>
 endobj
 177 0 obj
@@ -2021,8 +2084,8 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 297.6378 576.9458 308.6378 587.9458 ] /Subtype /Widget /T (c86) 
-  /TU (\277Qu\351 material tienen? \267 Nada todav\355a) /Type /Annot /V /Off
+>> /P 182 0 R /Rect [ 381.5171 700.9178 392.5171 711.9178 ] /Subtype /Widget /T (c90) 
+  /TU (\277A qu\351 tienen acceso hoy? \267 Dominio de la web) /Type /Annot /V /Off
 >>
 endobj
 178 0 obj
@@ -2040,130 +2103,16 @@ endobj
 >> /F 4 /FT /Btn /Ff 2 
   /H /N /MK <<
 /BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 46 528.9738 57 539.9738 ] /Subtype /Widget /T (c87) 
-  /TU (\277A qu\351 tienen acceso hoy? \267 P\341gina de Facebook) /Type /Annot /V /Off
->>
-endobj
-179 0 obj
-<<
-/AP <<
-/D <<
-/Off 43 0 R /Yes 42 0 R
->> /N <<
-/Off 41 0 R /Yes 40 0 R
->> /R <<
-/Off 45 0 R /Yes 44 0 R
->>
->> /AS /Off /BS <<
-/S /S /W .8
->> /F 4 /FT /Btn /Ff 2 
-  /H /N /MK <<
-/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 213.7585 528.9738 224.7585 539.9738 ] /Subtype /Widget /T (c88) 
-  /TU (\277A qu\351 tienen acceso hoy? \267 Cuenta de Instagram) /Type /Annot /V /Off
->>
-endobj
-180 0 obj
-<<
-/AP <<
-/D <<
-/Off 43 0 R /Yes 42 0 R
->> /N <<
-/Off 41 0 R /Yes 40 0 R
->> /R <<
-/Off 45 0 R /Yes 44 0 R
->>
->> /AS /Off /BS <<
-/S /S /W .8
->> /F 4 /FT /Btn /Ff 2 
-  /H /N /MK <<
-/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 381.5171 528.9738 392.5171 539.9738 ] /Subtype /Widget /T (c89) 
-  /TU (\277A qu\351 tienen acceso hoy? \267 Business Manager de Meta) /Type /Annot /V /Off
->>
-endobj
-181 0 obj
-<<
-/AP <<
-/D <<
-/Off 43 0 R /Yes 42 0 R
->> /N <<
-/Off 41 0 R /Yes 40 0 R
->> /R <<
-/Off 45 0 R /Yes 44 0 R
->>
->> /AS /Off /BS <<
-/S /S /W .8
->> /F 4 /FT /Btn /Ff 2 
-  /H /N /MK <<
-/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 46 509.9738 57 520.9738 ] /Subtype /Widget /T (c90) 
-  /TU (\277A qu\351 tienen acceso hoy? \267 Cuenta de Google Ads) /Type /Annot /V /Off
->>
-endobj
-182 0 obj
-<<
-/AP <<
-/D <<
-/Off 43 0 R /Yes 42 0 R
->> /N <<
-/Off 41 0 R /Yes 40 0 R
->> /R <<
-/Off 45 0 R /Yes 44 0 R
->>
->> /AS /Off /BS <<
-/S /S /W .8
->> /F 4 /FT /Btn /Ff 2 
-  /H /N /MK <<
-/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 213.7585 509.9738 224.7585 520.9738 ] /Subtype /Widget /T (c91) 
-  /TU (\277A qu\351 tienen acceso hoy? \267 Cuenta de TikTok) /Type /Annot /V /Off
->>
-endobj
-183 0 obj
-<<
-/AP <<
-/D <<
-/Off 43 0 R /Yes 42 0 R
->> /N <<
-/Off 41 0 R /Yes 40 0 R
->> /R <<
-/Off 45 0 R /Yes 44 0 R
->>
->> /AS /Off /BS <<
-/S /S /W .8
->> /F 4 /FT /Btn /Ff 2 
-  /H /N /MK <<
-/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 381.5171 509.9738 392.5171 520.9738 ] /Subtype /Widget /T (c92) 
-  /TU (\277A qu\351 tienen acceso hoy? \267 Dominio de la web) /Type /Annot /V /Off
->>
-endobj
-184 0 obj
-<<
-/AP <<
-/D <<
-/Off 43 0 R /Yes 42 0 R
->> /N <<
-/Off 41 0 R /Yes 40 0 R
->> /R <<
-/Off 45 0 R /Yes 44 0 R
->>
->> /AS /Off /BS <<
-/S /S /W .8
->> /F 4 /FT /Btn /Ff 2 
-  /H /N /MK <<
-/BC [ .003922 .184314 .992157 ] /BG [ 1 1 1 ] /CA (4)
->> /P 188 0 R /Rect [ 46 490.9738 57 501.9738 ] /Subtype /Widget /T (c93) 
+>> /P 182 0 R /Rect [ 46 681.9178 57 692.9178 ] /Subtype /Widget /T (c91) 
   /TU (\277A qu\351 tienen acceso hoy? \267 Ficha de Google \(Maps\)) /Type /Annot /V /Off
 >>
 endobj
-185 0 obj
+179 0 obj
 << /BaseFont /Helvetica /Subtype /Type1 /Name /Helv /Type /Font /Encoding 5 0 R >>
 endobj
-186 0 obj
+180 0 obj
 <<
-/BBox [ 0 0 503.2756 52 ] /Filter [ /FlateDecode ] /FormType 1 /Length 139 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 185 0 R>> >> 
+/BBox [ 0 0 503.2756 52 ] /Filter [ /FlateDecode ] /FormType 1 /Length 139 /Matrix [ 1 0 0 1 0 0 ] /Resources << /ProcSet [/PDF /Text] /Font <</Helv 179 0 R>> >> 
   /Subtype /Form /Type /XObject
 >>
 stream
@@ -2171,23 +2120,22 @@ xúMéA
 ¬PD˜9≈ú &ˇ'm˛÷"]u°û@›	÷Öø˘Æò¬Ãc∏yi¶‡6»ñ7¨™a}í@‡RπåÓM‹UC’·ÎùƒcD©Õld≤ˆ¡e&·¿7∑°À•∞Ì˘R˛S>t∏˛p\&–õîtπÀﬁ?¿"âÈø—+kıj3ùÈ¥L¥ã
 &üendstream
 endobj
-187 0 obj
+181 0 obj
 <<
 /AP <<
-/N 186 0 R
+/N 180 0 R
 >> /BS <<
 /S /S /W .8
 >> /DA (/Helv 9 Tf .039216 .062745 .188235 rg) /DV () /F 4 /FT /Tx 
   /Ff 4096 /MK <<
 /BC [ .788235 .819608 .933333 ] /BG [ .952941 .960784 .984314 ]
->> /MaxLen 100 /P 188 0 R /Rect [ 46 404.0018 549.2756 456.0018 ] /Subtype /Widget 
-  /T (p94) /TU (\277Algo m\341s que debamos saber? Lo que se te ocurra.) /Type /Annot /V ()
+>> /MaxLen 100 /P 182 0 R /Rect [ 46 594.9458 549.2756 646.9458 ] /Subtype /Widget 
+  /T (p92) /TU (\277Algo m\341s que debamos saber? Lo que se te ocurra.) /Type /Annot /V ()
 >>
 endobj
-188 0 obj
+182 0 obj
 <<
-/Annots [ 168 0 R 169 0 R 170 0 R 171 0 R 172 0 R 173 0 R 174 0 R 175 0 R 176 0 R 177 0 R 
-  178 0 R 179 0 R 180 0 R 181 0 R 182 0 R 183 0 R 184 0 R 187 0 R ] /Contents 204 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 199 0 R /Resources <<
+/Annots [ 172 0 R 173 0 R 174 0 R 175 0 R 176 0 R 177 0 R 178 0 R 181 0 R ] /Contents 198 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 193 0 R /Resources <<
 /Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ] /XObject <<
 /FormXob.20b1975ec34b9f990d8076ce46c23d69 3 0 R
 >>
@@ -2197,7 +2145,7 @@ endobj
 >> /Type /Page
 >>
 endobj
-189 0 obj
+183 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 695
 >>
@@ -2212,7 +2160,7 @@ xúu’[kA∆Ò{?≈^∂î¢;Ô)r=—ÙçPWY7˘ˆùgüê•]–˘ØÓ‡Á‚ùﬁ‹ﬂﬁw˚°ô˛ËèÎá<4€}∑ÈÛ˘¯‹Ø
 ø“Ø+˝
 ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø—o˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝ø”Ô;˝–˝–˝–˝–˝–˝–˝–˝–˝Ø‚u`V`‡Ωç°ısﬂó	5N≈q`‰Ïª¸68O«v·ı±c¢Ÿendstream
 endobj
-190 0 obj
+184 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 6417 /Length1 9556
 >>
@@ -2254,16 +2202,16 @@ Y©§åıÂ⁄ôyµ\"´≤VcZæ¶æÉŒ≥eÿ»<EÁÒ#	spz/”z }Ã,L2ß)NWÓnv~?S*ôY>ëï◊ﬂµ∏6Ù„Ò¶“∂
 ﬂj1O†KBûÅx6õg¡ÜÚ9+⁄‰B%YÍõá˘ læZHs6/¡uŸ*‰±≠òÏ ÊÂòﬂüÕ+∞ÕÕ–àU∏vb¸:≥∞œvúŸé?aÕ¶a˛È.l5≈óìò€[1?¡˜√nLg±n',`πûiéºÄkm≈ﬂé@[ÏÜKp˝'∞Â6¨ù‚ÁùÉIº¶`;˛¶0>ô^5£Ò3Ù,À;ÄÂ˜R«ßv›∆Àﬂ ˇØìÑ0∑∫∑yEÔ/√ñw‡Ï™˝ˇÔ>ÎF-H•üÊ«ÿÖílAiÕﬁ-ºUfVÙOcÌR>ä◊x∂« oïqÏ«
 ∞…•ß¶œ˛˝;…\˜xŒ-øbÇ≈endstream
 endobj
-191 0 obj
+185 0 obj
 <<
-/Ascent 950 /CapHeight 700 /Descent -250 /Flags 4 /FontBBox [ -173 -220 1100 917 ] /FontFile2 190 0 R 
+/Ascent 950 /CapHeight 700 /Descent -250 /Flags 4 /FontBBox [ -173 -220 1100 917 ] /FontFile2 184 0 R 
   /FontName /AAAAAA+Figtree-Light /ItalicAngle 0 /MissingWidth 708 /StemV 87 /Type /FontDescriptor
 >>
 endobj
-192 0 obj
+186 0 obj
 <<
-/BaseFont /AAAAAA+Figtree-Light /FirstChar 0 /FontDescriptor 191 0 R /LastChar 127 /Name /F2+0 /Subtype /TrueType 
-  /ToUnicode 189 0 R /Type /Font /Widths [ 708 547 580 509 232 463 254 558 558 708 
+/BaseFont /AAAAAA+Figtree-Light /FirstChar 0 /FontDescriptor 185 0 R /LastChar 127 /Name /F2+0 /Subtype /TrueType 
+  /ToUnicode 183 0 R /Type /Font /Widths [ 708 547 580 509 232 463 254 558 558 708 
   708 708 708 708 708 708 708 708 708 708 
   708 708 708 708 708 708 708 708 708 708 
   708 708 247 298 320 629 563 786 644 200 
@@ -2278,7 +2226,7 @@ endobj
   475 526 491 385 257 385 567 708 ]
 >>
 endobj
-193 0 obj
+187 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 691
 >>
@@ -2286,7 +2234,7 @@ stream
 xúu’Àn⁄PÖ·πü¬√VU«˚ñHâÊ"e–¶jÚLÇTåeúAﬁægy°‰®Uë`ˇ`>·¡û]›]ﬂu˚±û˝éõáv¨w˚n;¥ß„Î∞iÎßˆyﬂU©©∑˚Õx~7ΩnÎæöÂãﬁNc{∏Îv«j±®gøÚ¡”8º’üV”„À˝Î∏€è__ˆ›Ájv?l€aﬂ=ˇÁ√kﬂˇnm7÷Ûjπ¨∑Ì.ˇ»˜uˇc}hÎŸø◊|úÒ¯÷∑u3ΩOÑné€ˆ‘Ø7Ì∞Óû€j1ü/ÎE‹.´∂€˛u,5ºÊi∑yYÁsÁ˘±Ãù¶æt3ıMB?_°ïü_¢mÍ’téﬂE_}YÙ™ËoE_}]ÙM—∑ù
 JE7EK—Z¥]¯S·OÖ?˛T¯S·OÖ?˛T¯S·oËo¶¶ø¡ˇŸ–üGn˙‹óÜ˛<r”üGn˙Û»MπÈœ#7˝Ó]CÉ{⁄–üGn˙Û»MπÈœ#7˝yT°_‡˙~°_‡˙~°_‡˙~°_‡˙~°_‡˙~°_‡˙~°_‡˙~°_‡˙~•_·W˙~•_·W˙~•_·W˙~•_·W˙~•_·W˙~•_·W˙~•_·W˙~•_·W˙~£ﬂ‡7˙~£ﬂ‡7˙~£ﬂ‡7˙~£ﬂ‡7˙~£ﬂ‡7˙~£ﬂ‡7˙~£ﬂ‡7˙~£ﬂ‡7˙~ßﬂ·w˙~ßﬂ·w˙~ßﬂ·w˙~ßﬂ·w˙~ßﬂ·w˙~ßﬂ·w˙~ßﬂ·w˙~ßﬂ·w˙˛†?‡˙˛†?‡˙˛†?‡˙˛†?‡˙˛†?‡˙˛†?‡˙˛†?‡˙˛†?‡˙œ‚º	∞+∞Íﬁó–ÊuÚ~öˆ·¥x∞rˆ]˚æ2˚cè´¸Ù†Zendstream
 endobj
-194 0 obj
+188 0 obj
 <<
 /Filter [ /FlateDecode ] /Length 6271 /Length1 9580
 >>
@@ -2312,16 +2260,16 @@ lè¬|PLZ@ø1|(6O†DRœ≈P∫ ß'àU∏1É(DÎcxÜ®>Ô^Aâ¯€0≈Wã`_Ö‚à.í‡˜ê/GÄ€R(≥¿~∫+
 ü™Kßé•ÓN}&ı√‘ãiDæ~ÙJEã¡K˙"ÉƒˇsêﬁIËˇyP¨Ö{»√·Iº' ˝LÏûA˘ËLÏ^2ØM*Dè›«√ú˘b˜©0u±{9J¿◊â˜£dº/vü ıﬂAQ¥ç†mÄ˘ h<Ä∆`V|0>‰ÖªV®ÈÖ≤	mÜ7}–ÜæoÜ÷—:x”-<Wo†nÖÁ°ü1ËwÙs√ø~Ar ⁄≠E.ê⁄àÜ†v~ØÉP∑∞¶ ’@›0‹ç¬JΩP™◊ º[:Ù√õ®∆ˆBﬂ^–›Éä†Â&®ÎáªÖ}ŒH.I™Ì†0ÜyÅl?¥É˙ç–Ô(ÍÄ:ä¿ÂCZıO˙ª‹‚Q∞íb:"ËÔF⁄ %≈®_∞¥-öïnmfØ∆Ì°ÏH”w—ˇ´tÂÔ)<Ω˜Q…ÕËø
 ›◊endstream
 endobj
-195 0 obj
+189 0 obj
 <<
-/Ascent 1000 /CapHeight 706 /Descent -260 /Flags 262148 /FontBBox [ -129 -218 3823 983 ] /FontFile2 194 0 R 
+/Ascent 1000 /CapHeight 706 /Descent -260 /Flags 262148 /FontBBox [ -129 -218 3823 983 ] /FontFile2 188 0 R 
   /FontName /AAAAAA+Outfit-Thin /ItalicAngle 0 /MissingWidth 677 /StemV 165 /Type /FontDescriptor
 >>
 endobj
-196 0 obj
+190 0 obj
 <<
-/BaseFont /AAAAAA+Outfit-Thin /FirstChar 0 /FontDescriptor 195 0 R /LastChar 127 /Name /F3+0 /Subtype /TrueType 
-  /ToUnicode 193 0 R /Type /Font /Widths [ 677 576 595 539 548 287 677 677 677 677 
+/BaseFont /AAAAAA+Outfit-Thin /FirstChar 0 /FontDescriptor 189 0 R /LastChar 127 /Name /F3+0 /Subtype /TrueType 
+  /ToUnicode 187 0 R /Type /Font /Widths [ 677 576 595 539 548 287 677 677 677 677 
   677 677 677 677 677 677 677 677 677 677 
   677 677 677 677 677 677 677 677 677 677 
   677 677 190 286 456 662 603 685 691 250 
@@ -2336,58 +2284,58 @@ endobj
   536 534 481 342 300 342 563 677 ]
 >>
 endobj
-197 0 obj
+191 0 obj
 <<
-/AcroForm 205 0 R /PageMode /UseNone /Pages 199 0 R /Type /Catalog
+/AcroForm 199 0 R /PageMode /UseNone /Pages 193 0 R /Type /Catalog
 >>
 endobj
-198 0 obj
+192 0 obj
 <<
-/Author (After Ads) /CreationDate (D:20260923121840-05'00') /Creator (anonymous) /Keywords () /ModDate (D:20260923121840-05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
+/Author (After Ads) /CreationDate (D:20260928095229-05'00') /Creator (anonymous) /Keywords () /ModDate (D:20260928095229-05'00') /Producer (ReportLab PDF Library - \(opensource\)) 
   /Subject (unspecified) /Title (After Ads \267 Cuestionario para conocer tu negocio) /Trapped /False
 >>
 endobj
-199 0 obj
+193 0 obj
 <<
-/Count 5 /Kids [ 39 0 R 81 0 R 129 0 R 167 0 R 188 0 R ] /Type /Pages
+/Count 5 /Kids [ 39 0 R 81 0 R 135 0 R 171 0 R 182 0 R ] /Type /Pages
 >>
 endobj
-200 0 obj
+194 0 obj
 <<
 /Filter [ /ASCII85Decode /FlateDecode ] /Length 1830
 >>
 stream
 GauHL;0/3d&:WeDlsnenW035FoVIbKktPbNBq+n[mNF5=-k7gO([STpYJ3kp37q:[DC3).`Wd;]hsPs*qgflMJ'ic.2:7m"]mM1u8=EeH:e]9t4WR=mYE@a&P;;MYQ%kNs,ge/;ZP7UQ0AlT6rl7g&jAV0eg?#T.AsZZ?Mj,S9GKSu%/ke`QIInst>&'<7_ZuOHN92hCc6DU.DBLCI=f.FX,SS'RP8`B?+.Ntpj%Gg)nNAu1lhGjJo&961m,S7s4?P^$U\?.VVj$04k;<!.P8D%=`oB`"6];tP-r!C2WJpN4XtaQeb2?M[g,6mQ6M*R#_rbB+htWhSXaN]t,rKT&o?r]o9*Y8E'q+#0Yq-B7FS9@c;YhFlI0e(l#\uaTQq[-cXeKm0%^9M0X(%c1"]"8l'/f3@H3:?M!O#2%>E=!m\jbj&gQnGn[^@?]l_[@al2$.6*3SJ-h;Yn;\5)"dbYhgrVK`1/s$^`t`o=D=$I3`8A'%EZd;cY"*R.eI>;kH=6*TbLZEOd@Em;HY`>T/j=R2o)jQa;QBj4')T!%E;[B?!S!5M-B/).b3Y(Sh#m*p14,G>iFZ[3iJ)_13kPP\e[Kg26@D[:-%hYJ=*D$s.2M@7_KB3X>pL8L5QE_k;?dr-kck;/Y"*M\IdKs*(Ga.gp[Qd%;`0FhutAYoTD?p[i_4jX8H]n^N#Ua6o(62a'V8?7!.g1mb,RUJ6EU/u+\65hIZU>tcq)(s%+]<tbGN8L"+XedEmA*D3_-u.TX^P-X=P4p);c`0O0][M,4UdbR=BYur1,=p@(2BZ>Z=SXd7cD.H(c&7Aq"B:&!h1V)h4,=Hq^-Ynf_]!.nH0a\b`K&cmE&'0i@'1oBp&*dXAI37qg/D!3P\0#a&JjA?lNXf-MK3(MQO>LHV2JuAKqCCeEu)\YTVJR=f+&3N/nXP23N[1=eZuKj^iap,iW^r8+B@auV(Gm.*M<bnHqOhQW.eV/h2WBg7(M^-$3pem>M?NiTX8LK!PPc]0]:9.q!T`FkRQcs5g+T13kr\s?(7<AE_+&Q8)eqe)YuZ7^YS'O$);7QW#/-RE,kHlk&q8<Jk:C.6Hi#X3Uo19$#Y@C`iMV"oploPO9;L]?\9<]E7HVg@7m`Jo3p#$2i+oOP<aS5Y#/7M9Ag9e2N>TT*umZ4I+luU(tufZH[j(%qRS3[D*qV$S0$"[C[.3.?p!,8q_?^l/qAD.&0SS7`QSU2[QAtC/c3el_Gl0eHD6qti7:b4q>8LfP;j=5"VI+)454%%0>U*Rm\]3i:_F.4eMS/hpRF4%26Go:9&.<jShs8;Ze!\4oZlT:lMVMUnk&XgJqO)u#Ml6M.9oAXEG&)PpGn3>VEZYbA:m'u_!GCV;1AoZ>(n]^5]K,U6:O`)0`Ec!+XC>)FRI2^.aaUZ.1!'09>S30Xc:"W0I%>Ne#<Vt8hq-'PnoDeO3BG"L`OA8NE[s-H7?A]IOg$P?T9MY_P+I+&AFIqTP1oCRWS>8L1GknI3"!$rWnMQFg1!hpNjSOP+"2UX3]NK`Q=mL,RmEB]jiVgf!?]XX2F;0nG!lmAO;VD[C2M!0]n+TDVr,pAEcqa:XV=JN5/ZL_8CYV6P7J9$k0X]*;`D(WcL;dpl67l5VC2=fr@@"@l1,<B#Ei$#(>78*JEp.#bh_nZshT$CJV&CaAS_\@@,$V;A#BAE"=4@!9cb7LP1`;%-H_!T%aWtne2oo4;=,)IU;_,m@F.p*&)\<q!/pPiGB9T"lK:`lL5E<Nt.(#1c7WJc)#>oHfJBK)4+pnR_6#X!Hl*p?GM6B&)[=)%.r!,"i[[;ahe^5$ukrl(dA1$oIjXLTFC~>endstream
 endobj
-201 0 obj
+195 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1524
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1514
 >>
 stream
-Gau0DgMYb8&:N/3b[]WNS%Y$_A13I:(^QY$$FE')f&TG3^l(NOC$Vtkfqk4[Bl0i8,lsf0EG+I)3HLksEP+_$((J[7)818H84]2o8SFu8p4b23PHPY9nP..gh't!j93Gk/T">sm-SJeMIIhf0bp:%>/i01tqV'2bj(6Ll>6JdNWClL?<B#1f@7D1&LuH,q0l&bmoSX%L(E8^Jk0.PA.<AtRB%FaXq$X*Z-3&!tPCLp(J%PJ8]6nr_rG_RuhG$4.l28ff`RX>7j)^Z;U"N"j^pnD_=CU(.9H.Fbc_WB]n#A@2;FYWYeuf@l$B[kVEV$\Sf60*,Dn:L#CMLb]/#mK6^ML:'EoARqM)c;Xo\nC.bN[>ERjbW_$6'$]9P.o&>"p+5obskrQbLA#Mp[0pJg"mVj%l27Eu\`>O^D+^/ON1&C*4p>HsMHbC^U5PIRbERgPeX`A9:3iT`GQ#R4Q4,DX`Bn&K3RR,\K_[3=0Xc*r8,T:La65`_?q@Us!2-R-#:Qr<1;9fFZ7q)a@^V:n3N4/m;GfJ5H$03_H(C'4I!L^G*2Y*/Bc=AYZ)Wd7gP+R]<=O4%_O:KZ_c(ic#IOA^$+!G(ufIb&eRb]n!i>C0:;?W1GIkUUIZl>[(Gs#Qu#?U&>b3FMj<#l;.IF7(!-:gJu"DRNAD.c:Fi:0%oFnc6L+:O3oNAerY#lK1B$ki+B'Th_FM&a)%WIb]_OA.=GL^/EisHrGY@t[4ZkF"r)WbNtE?#\ZWie[sQW37tON/[+[419hkn4d'8*or[?\q.hh=*&,]E1jp1aP5'O^/X,b>Q8fj(!Z)kFT"_sQ:.T8?!X]V_;U.52`(aEj%]*I+*kM&0XY?F=.G_aZ@eg&K3cr[sJp?>_@KWV`b.QI;Nck0bt*Ac*g_k9jm2sP:tO>OWXbn;0Q&c?R0O+A5IY(e`ip]#e"77CITlM+:kO3,Nm#)R>]M_3J[ljb9?>n$bP#j+A,/%3GKaWhsLSF!c^h\06I@9!5:<1(Vp8F^ME47?u)[f@s'$QJ:L>AT1?1n![W,f1fsT_"BG"0\h;p:Eih#6+Q^-F.:sD^r>1fm@Hg=8TRchBLUu!id79A`*Gd23>^).RA+bB0'eY?UB67bKpc*aq%%?%g-_>[qZf_&u_l=s69?!eY0Oj_h-W@LCoTh(R7!mjj'Rn?.[t#"EC-<(2:!Y<N)-6AmO]K!fri_8g,?OG(2jF$Q4BIR[sEGr<O2O?EDnHO#<Y:a793355PEVLFNU\I%9M4i>`$O+.3@j8F,%N*-s%iB(MSl@DbHc$jcoN]i\>jqK;-A3$S>.Gfh(tn;qf#2MRrAkETt(O<:OE<9g=$1(]=9&<+Z@iTQ[REf"d+*@r/RPUmJ043R@"'@KfpA1",J_4T+TW[*t.QEcQ'^g<J,69hY_=,H8Zj"p/>N_BdL8#,Nk/pmMAJ0k-m57FF\<Tn.#%^CFc\npQ7b&4()9%#+$/+k>#>odQMkQ0t*k<:YV$G9UK4P4I)Z*ceC)^Z#55NIOR>"b'/!7Zr+*<~>endstream
+Gau0DgMYb8&:N/3b[ZeSlb.B6.8V"^0G$4KUB3$/QSl<O)"?OH;VM!5H^9m0frZjVZ6Xsb..6Gl1M8>)+HEoJNd4@kAk'i0":7Z+3=3qec/-q6D";Ee35.uKL0LK#D(3X:F3ZkKS/f:Z]DD9qMFi7CHtHijoTc%qcO7cLRn%=:W=%tUD*,:q0I)SN`,OXtQo,jq]#=gLMmZ2]F69m]P^,!$1TTK)r.S(h#6,[LK7>OLIQRKb48Wt\]fc0W+/bH(3dH3uH9OFhoTEfnC%a#B?sIt+/2;$RV@>9=S5eYMY)5"aAHJ38m&I:j&-F@2D4WY&S+\0>FkbAc787$oH.d*'Q]:^,'Adb"bcCB1b?lX@d@ZV7T[9hjX9hi[R@0%M'n+fdCTISCq@6.^71Tk9L8ZDZ5BC^;E0,38@9LUIL^aNfJ0;&bFW().)ZUH@46d[=Ait>aP9X6;%9W,GA-j#nK/Yncd'.dB3E%,C,f&YhkT[]cQ/XGQDB)30hSC6fbqn"a#Ko`l&BlL@5@G"o3#aTC2RI3!+V,<q1k5qZKL%s)_Dnkd%OjQa7SAf;R8VG`AR8D]PdCr,jb=eprZIHOQl.Jm%7p_gkp?TqL;&PN?\Tm\T.;Oh[^ass>?j?!";st>q4=gtrNhDs?N<;Z[0=R*A[d;\*iW2s8?W1Lg#NC`,JXnPdEHTGaEkV@,:l#t1KMX?R!,TA2H*1ZgZmFU^9)>iFON.A8*]:!WX)&[WN+r%1clDW-R'VmB=2/?)b1+nlVt8<IhGrGP"Bg<7f,+.%hSc<05VN:ZDAb>Hq.^HWo_K6JJt_Zb*4-M'ls_%GlgfrftjPn42;kgHeY(QAV5d?D]e;l"GD%A].t)f/rf.QYSB)^"_XG23aup,B-u;W*&Ph#>1.Q[A!6I>f%11QJ`)#RI.UCuGLaI*FT3G]9pDOjW_,Lpk)c['@ZZrX\_'`lb3gtSh\GWfN*tke]jbK[Ous=#a)R-?s#meN$)@'_;.0Zp7uCr[gEC4Y\-69&=BIrRfOA-cP=_ZBP6d?lJ^.Wi*dDNJZTgQu0^omZPfTRb]I@dblRl"d@6.A1neT&j&Q.40>^,RBAIUX>Tb>jVE2KIXoegn_F</!-*V';ql!f]X_QB:'L]f3M4FDU'=ES;[n:]^Ye7$9onjR,]=h/[<rRc;&&4'R&b/H'Z/k]0d"p6Kck^*P0#c3Uo-@7]qG(kleD9^Y/G;6s'KGU\$3OHJ/Q-'17p_%W*n&mus'[e\-$Kih9m_CqU6s;[YGNbmIQuuX1_jZ>`)%lr'C9]6eoW-IrE('U/i'[4rKI=)NYgMWN1G;+:KD\guVM8E7/-DTU"Mk5BlOTR9_F_s2C2_d5OCXd3g0&k=QoI4.->)6k5D7X15#d[d,pY@276(iVW$h0lFd9m_5!J3(m(fE)?8VN;k-Dlh#$A_arg."R?cJ,'7A&;3V6ad*WpG%hU-T^:^e/`;I9V8V!'NS1l.dTI:k>fO&Pk2%9Pj'VabE@hglH_(2qHF<+2:_M`;~>endstream
 endobj
-202 0 obj
+196 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2025
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 2105
 >>
 stream
-GauHM>uTK;'Re<2\;tKn;>"YHqpM1&G*l_8!U9#9oL3afE,/+GmEj9g^K3>hU>Q/jQHk.#f?u\R*aP<e1SFN(24nR`n9PKrh_JRZ`YZE9OYAtQj72@1Lf(hE>W;\J7j'%4@n!b"1d3pGq::nO^OAL/SZjA?2AL7q>U0WHC)TUAPu5]C1eQ\c++5%>`Ka,Ii!8@/,"6L=E]1f1faT2U.7p>"&1=QMAm?H<rWe.E2#&na)LTkk4s-DX:HlEU4?N?=*tQ[-iTTppq#1!_r&K_N_Y?Qm5c@45Mh'01a&2qH>'$BTcRL@%S-O*)`iK5SAZQ2q#a:$8^%9!:;tp^b"ZSU8C$%A;MqdcYAk>BJO@4aD3.!S.)LdWM'>ir[KEYa3#`mNUhf:\He,_H<BVf)L7mRb;^5X&'ilNdbS-HX=%2"j9%Ya$V$[+T;WX48p6h#e-<d;-[DJC]3o[fRr7#>G*n5^ODiFFn_$ZigiBJ/#4;,SB$>$AF\Z#>ee0',K=M'<787;.YL(*/!*++4Gor5'$ge/%W1cA[AqPEt@!F`e)heHToUqUVBSZZTUr0UoRWi.dSW&4E<S&M2MK:eL*[P'd-OaI^FOBoE?o1l_f/dMU$:75*X[L*0&)@nj-M7nLnkT1`*aL\(=,\2c0aVR5WLSYHVRG,0![-a'JoX>Im]'SL(,51Z?X87J=IOh*!S26!-ks(tU&7&%G@,2%g"S:)=eL3bGB^<"pSfn'0opTrWbY+*0#f=KXds"lZgR@7keh+64+2c=eX5'C=TXIZ?4#8^0CphTEd+E;!l?f6BEd]D+<#+&1o->OLd@.Fp"Mco0Nr32AN[DZ'p/b,bQr.hlU].nM3W26Q1)i+KD\$T=c&JHWO@T]dH(?$(0>4]2^ZEMkVD+8\oNDGJ*.-A=p=YN6O)P<.caXD";VS7?[msQq,MZZKd+a^@M(!LMtH&#b0_)h?4DD3mnV("22W=L&H2NBn&[$mL8KtF3])H8Ck_1mjB;6f+!9tfhLe^;7DW<\X5()SF'<E`uJHN54DGeK&p#7P)spQ/U4;9_7Ye/^ddmT/6H(GSC$8DPerM24SRh.%ZsOtam=])O:R"r)iE,'/[r&%)eH8ni2ZX&?MfQWC7V=45qn<g@bCOlIFF;.1[_=p6o#O[`:%U\*+Op;ifo&+^au:h@n?_FDT'/<koK^nJ/K6uC7o=1rsem&Q*:=J0QSh5[Tg^8(Z:)Hk09@]WpIV8*sOQfE(RRj$/rRms2-e7)-/Acm7AhBW5ABi-ri2\iF*;d6i,(pkaM]RL9ulqYCC'MYK\f(?lUV7#u(205%;^-pOdfL;^`^+X<Tp2T%B]6JS6W%r"d5s#->7K;FFe]Hs[K;5cfT$3TVb"/I18E5G^<^\9:K=6`o0G<RgY-eCU"RSd_Y7R-j>3U1R32IID6pK,tMHH!SS'BdO\$<&V;dme_1tO/E$5JS)?Q$P&BkIfq]QbA)D0$(DWk"Oc=7G=>rC[&oHU1p$"hMY7F;:E@1QS.'.]]l/TQg*Pp1r?r*GgE"(@m9FLj'mPL<71mIp-J:K!84eiN*c@9Hn_OO@\d*6B7B*H"/@J$[WVKWUUV)%(`"VJs^iJIqAlPC4#<jI3QIhYRHu]\4>ef6o]U6"9b"Wnp5O#:h?s:9!2u);N4O%T8p2_bJ+(hMtW_iqj_(VX-YEgmjJ"t0dljg-+=*73nZa:Ydk=\_Np2%cgQ1td=&mX0d4dUgF)oG'iUpQd.MFmfh(I*5at)tMl8AE.g9!V3pM53-7Em9a&P\.e:^V6Y!X.VO^\9WAgVH/C#sDsG.G6mKuoQmS^#*=)pRPn@Db0db[&o-c:XK$Ek.k43>]8MoMbK"*u8Y/,jRc]`@\jsj=q,bF[E=Ekun1=gZEJ6pVe1gXb1ffVlkFV>=m+q>5<NLhHK_/CGqVnlg]\"L>rt(29RiU%jbU"s#o4ji]]j#J+Ir1J^"oL:9/>['#BF:n7Al[)Ri[qcq;%"3prs*G8X^l@VAU'(oP!BXJ@$aXOf'=@cLT.r<L(T`k2~>endstream
+GauHMgJZcs&:O:SoZL8]=_]^9NV4Ye#Y@mY.lb0<OI*47(aY?b/'6)ulaKC$2Zg:;7">n.7alds:\UA#0qe<dRVS&g4<MJiQOF^dnKfk\,`H*Jl$2jXLf&Q?\S;&.CQKI/8.f?@K6N?I^@Z"9YFcA$-S1:B98&hRQZ5]sL.44D;C>^CFUTr$kei3)Y%.qD09cRdMW-DQCkVN8[7aCq&kaYsMHO_,S>10':C7\Jr%g`"r]N=<G^;).Hh[7/r9PH:5<_;dPLjHFDo\alO(%r(`_QX=6:K+d#!t2.U]SDliBlA-.Oa8G#B8(V<In0gCP!a^nR0i_r^UF=?U;AU_TdIkqJCRV]07r#f$j\V7JMK+=!M24l_nJ`W38RU",;Es88\;WK+%<4\BTZ8;D<s.+:&_<oG[2XnI9t.%K>oV6ra/+-k(l%Ya[pT9b9u;JkqW:gr%PT;cgf#s1W><a-*]X>B,%E`m>D-2Mu*\0&!.a;B/&-3k0QXBT`oZj[ANu+qA-Pf,3JKGNbQCmn9&-$]Y]`m3'U-bSH:KdZQ/(7GYQRCs-amqG'npft&[EQq]+J\AfgP3h[!1Jjfk\;Q7>P\E?Whm<M*b_3j`Ei-IX6NGuQMn2/0C"Gt#7)gDfO8m6'2>hQ\LT$IZ4Rq&ERAQ40:3RTTr=6`7o<`HJtPr9]iJhSb.A,RR,3$PA.W>i]IS%+=L?Nqg;(B)@MAZ+GGoZMJ5Y;atqlhQ8rHi/BTr@E#Bo;8_k)rBrOs)hpp413V3]TKKaDku[jqm6?i@IHm+2E6!Y]"]E7*Y@KenN$#=2G'Bd@;m.X7C&W7*[L4%IkaS($X__#:bHb<T1`F53rc?8rI1A#,h,Fdi!8HHrbc/Pnff8W)Y@H<d7iR.W`nr$`cA$/:i/\qBoS<F84ZV4$KeLmI"<qeSH`q1J8I,5MLqUFQ(@d:!6K4VoM#g\Nerk?J-nUla@]4rKcNa`_E)mN5?ZWJlG7)="bHnZ-"T,W7hB-]n!!(AGedGBEt=[+2laD!EB/V5Hs2(+/BWU>E]B+[i,L#gnQ5r9LGeMXnXJGoTX[s_Vo>D(6Zr'EC[@$ih&6gD_GCo4G3I6()p#THmK7Ku@59;P9S2o'6NLm]7<O)TdAYOmj6YK>W7%Q?E,b@!L%=O3/WT+Y+_oWcD>ie>C/2'gYO/?$XiI7+pZc1B7i%R&7Z@"tXOIq9Z7Z;ZUr<an7Q:MpKV=8\2OFs/+aSbP\4,XoV*.YZlV:_g%#(?KJVa3$5dKelHqR:(H>#`0>[09j&(WPgC$5q8PD4L)lL_iF$[Y&Qc>"hakDLfA>W&IsQahV@:(HHXBKd2NErP4;PR4+DKMEiHW_/3o1<(BB,Ktn95i6Nt.'P(4%k;.E0LQl0?gF)!8hgIR\Ykh6Ij97Uc#&rdLS3?<b\`%cs2od\H<81,jSE'DbtC!"T\RMI/%gUtE2/lVR=,:3*kBVXYDj=99$^?\2Q*Br?]t9N#aT1if(K@^?`-+ho@VGk-uX>O`C0=C,JRXae)Q3`efkYu79do<Z25eua-p[an5Q[+'c.7e%*-Zg(>i7o3tB/BkGA3Ek.%HTn8,ou;DE-R90l6"OaG:fK$(O7IQ\1^ZIo:.=10<P`[I&^#?amRG*K\E%m6iS65"$6,Lt*fp$+^goj$]"Msd+b^W*Jm+b7*R)i^KGp;E^&`1D&!Rb0d.5H'tSfVj,,fq'H`BV8'E`?K&Mn!_'-[Z3ED$POdGJ^Z(oIVQb8-YmN9`FXquA!5QIdAE2T4Ncc+)&e\j;**Hg/%:8Zq8.hu'PXgoAY#,@pZ8EJn@g**m&6iMCd'CNKLsbVr=la=dZaPVF;@H"dnNmQr9]r:KqF8do\'@Mit'uC(g]3EWq$Zc]i4_\CGqVnlg_NTVB-@3[Au.`L))HKrfD&_'U![3WpCq5S#mL3iZ:4gKaks2JS=O+"#Vta.<fj#U(u3=#I]CA8?(ALZQB*jBM+\#RmhWG8f\[Le@DX6a.MJ1AP:N1fN%KfC!1/6dFCfUX]5RS"1e+oidaP].$EfMO3*G9EH6ipBbg,O3%HV0RBL_a:.m`bqe=MM;6GW1AU)@WFbbAZMstnMKu64h2M3V8`7DUUqB$s76!4~>endstream
 endobj
-203 0 obj
+197 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1822
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1920
 >>
 stream
-Gau0DgN)%,&:N/3lpEfIV]GtbJpk`hNg"c9='M*d_(Q?+a`L'?iPeCboj*Z",eL<,Q]aL!8K;bpce6;*!>nZ2BAGEo!+&FYq.g1n_disF&dac2E&nkb*ANGd3&fZg>_CN;7>_oq)gl`!r3`_c^\sC93b<<,>U&5cT#EEY%?5JhUe\EjFUYJOkgP>9Y%.qD09cRdMP?MR5!o9c)3U5K`)93`@b//Z'GqhiSO,`Up^GPUHr!O%T3b4:5.hu0T7)6Nj7>!q]KJ?)5<6D:K#olDScoCQMO61/KPDQ""b[c2Kt?_Q:r54'i1`*4!kgA?OWoDKi7++mT>VMZL8K[Qc$bcNFam8,T,8>ZC4O5Hr5&2u&M`cl<-Au@-%uLF'nf(lm9U8=]1.cu+^OXK96&#o#0[?b/OXtXWB+b`.a#auj5=_=;@BIV\LhZdA/8DVM8ag#Y&*GZ']J!hem[D+as3W_[)m+B8mf>`bGU%)DE[o@H*h/o/*fq>p>g$60313$$u]hu)2XtT$75j"JPpTnj-U+O$udYO&JuP/UdF2$jg.d14&IK3hK='e7q+\-F*WMI\\RQ+lgbu"((st*.U+(q5^o@a\]qpJK<ZPt6BE&]?C8MbCL$*Rf\*[B(3XRGr#ond$XY%dAaSVs<^F@WWGLCMLEE2uU!Dd90<Ru39Ns'cjaoN58U[SZLknS=:m;V2<o<p&L^Tr/SXg)(V<;U7ar=D>8;k`d^u#EFd8'9aa\nVfR`U!(Np@P$H@"bk\pWQ:4En<$-J=`Bs)NCl"&1U[i;l9c!JqDVM?6N)n*tme'Inp7bQ&#UYWIO-Lan$&o@T^!^upe]EK:[Ud0>nEYd#CJUP"`$NH_'HK\#aJ;nAmb3=[U;N#E1Vo9_qZV9L\\oU(mkC2Y5J@3fFs)\,3Q?#O?06)Yh-4/R@Wd1qg"Ec<0NUGiue5GCIjm5+a6[58`<cW]%WAE$O7e+HB_4k07d4^Pj9:eDCLf?LL&d@[k#/!jN:onHt]/_Bs&HA*/AVX>9?:_mLh+h(;#dTtV,`NGbb#7:u%[]N]u%c!ut7PBne<ML>WSOWSDV#H,iM6`04F]lb!+G]\`P3PP9DE&Pomho]:A%\`:;s=&j>eP*Am7J+?T5Q2dY<13(!"5kZWM&Hq=cAmZf"8^3nfISmg$V9P;-[kM<Q'!AZ63Q;D;?`j395OK&gki"*..B'gu[G"+FHTp>$*M7c+ONi%i%6tq]/6>L>ks<UKCeHTls*($X6bIZCkG`AQ$(Mbo</K(\#h=iHC%g7YRm^eRl:SrUQr"-@_[&]9PJNElK3]Zj;X@nCbqMqXTF^Q9ZT-8m!s@5U8skXYOiq72b)S\nia'Y#)rBdHjl5E82B^-3d0]*XfiPGd&iN>kLT\=V+u.gt+H(;t%JOK<l2W$EfJ"Q[R+r_^@@UINJtoi-&,pQ6$.6f9^hY<5aP>.[#k.cqEE4B4NEN<CXEi3B;T@[iSnQY/L=/j6YtK`a0=R`:1\n[1UQ+hX1&VnGRK@RsM_Llocpf;683O"j9?cA0/Iql!BPrjR=E#]f?C$9J1>8C42k5_s_5JChFQ^*tHZ2L8%itAIGq08S:dUM:fgRr'^faK`_&'el^=j?4M`0Vugp^Nb'7Ad<s:DZc]i6Q:UdjVl.<'6a?9ml7/a2!t-KREI:;8Gj[A8/Ws>I'VB8%$B6]Tf</#<A9I$-,j>Qd7FeuKm6ma%>GQ!]0eeC`)AAt-#EO(P3/,pL_EE/74J&7^JT4kK*,Cc?1LCkTah#_q.#_;pG"%N86g\sPGP">c_IjSnNYdsN`J=l\f4V0W8n+``)l&L1n&"9qFX:Vh~>endstream
+Gau0E968fX&AI`dqN+(7F\V"ta'MZ^Z*UTjo<>W`".):^7#n&dP&N>VlaL*8#!6D3OTJMa"IecIl^k;lK`I-/d2pa<i,o)ScNFL[aW,tG)No;`RZ+t@"NO;97dWu_!'5Wa1b=OD#d55]4S)SCO.S2LV]lV199l*go/Pm=Lke:]FHB*P$Y"A@8"W8p8>B[&Gi03:?oTc;/OjD\XBj8CZWLuP@4XGq8V,1/h`-:joe0c?leh;t5>SJGo+1<1QffIKj7mX'-h#>Vh^>='8!$tCnq%u<Y$rg]?p'OE2S_]p8S&rH<LcW0$!auO<M<D9>#H%P-_nEJs/!0n2)Hg3h86(XhmO>Ela'.#!KVcMMB6a4G/PU"2C_o<K/J>d+;IS)B'W\3=,2*]=!:lG*_S4V%ilDoUIH;#3&`384K>^WY["`,X!'!3>h*@"fGk7rlq71fRV-=mZSRt2cTQY]3N*rLmD=I/$eO$@GjG;PGMjXd^*N^$jQP,0FNg%tH.;q-S?PP9TU!kp#U2&J&V:mU:W,YsT\H1$9SkG)J^NZkQ%R[A.!&q?9n[W235Y?=Bcc8[%gWIeXs$n@CMX8jl/8XQj2.&u\s\1`P4O6pQagU[M+iC!;T:9S<n\"8]Z6s51P:6T;/9&$#GL.=R;Sia+A<#,*:q!SFG[q)s$YjeG9YFpl8!'Es#7L<(W.Sdp)ls)bhaH\D5$Suj#cdQ!=^.W'nq(.'`DH5q!?GTITpc-fspknd._JJ+Np077KLZQQP+<HKe;,gSQbdu.K,q/OJ?X:=7-%lg*+SCOg,[H.Nf)g[>W9VPl_gXV+h's=k"_H.bkNQ,=29Z*>9s)CM'WO85A6eY*SV9aco:.(Gu^='rGQTU\b_(^'7Xl?"Mbi7IB\@jm-bn!>6N2Pr09r9s0\B9LN<%!^e@ti:@b?-\Vj.XS-75;RE#&BH/R(F^qI))frcmCdk`\8'PAg=nuu*V,pOA_Mn;uYrAUg.TDJLr]h)Q#pQKm&.,aK_dD-?6Bf6cK]rh8W*I$Y)a!Ypi1hsiFGW3j$Wl;ic#,'/jLMm7^Oni_o$#Lq>1`OZX;3'\`9.SY@I)#Iqm?QAK=l3OT0V1b!NgDkJN'MXe=em=F;fqQ+d!M^a#0_mMVR%UK0e6.bp2S?j'G_Uj(2K8O)"@.NFlW:W@>`8T@q^g^&J-Dc:cqV\8-uDd80uqN\F3Vlb27+CncQ*V'gi\HHmZ9V4tJDTG3D6LL]Q%je3pI)ol5Pp7XLW]]eFt=#3q;-H`TbF<WJR?p`^70VR8.A\9-_Ugj,nBA:qrj`9jpoL6"kb8r39=d+.+k,*b8_2/(V0PYeC0UZ22Wm1O_`X^muO&=3*:-T/j?G03QK!GX95jbqABM\&elp';aac.ri].IYJc0EN>=STX`>uiI7[;?"Wb>h,FnJ?CD&t;d9_QBOcq9Kb')%%.H^%91aH5p$fDOs_)Df8n=%`^Wf3,038qd&YICrr$.<KZOR=!Zm+A00!nTk3M4_!LIch13$H_25?FkD-cIdG+]5q\8r*^N?M3CWB=Tq?h,GRIb]A$Tk\I-BjVkP=b#0:_Gk7BjRI#MDV>Tp7=5a36d>*gWY`-D"og8/8EF^7INsW(D]+.$tgGW[5<%!;l3YRfe*/D;lmb`2M_j6@Z+G\)k=ZJ3N1jA4;so>jbV7q'1+jN,ObP>W6KWiIXCs?=+9mhJ**6oAq=<$_`"DZLAe)AakZ"U?R.4=n,6)>Dh?=P_'TG7E*QeSJK)C7&^EPiA8J^_>GZu;V8.YhG<kZ'>sK$(2d,*4\sqWWMf9=^pgArd#u+bXS'^LfoH(%K2N,%-lF)EgnF'UI2jPN`7rCFZjb**)VE;<hS<n;('fK@L:2J#6R,?PKgADe&b`$G:`6O?K/,DVm14P"JDu6qRhe:7YY4YOCo[^E(qB'MeDmT~>endstream
 endobj
-204 0 obj
+198 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1667
+/Filter [ /ASCII85Decode /FlateDecode ] /Length 1214
 >>
 stream
-Gatm<9lo&I&A@[:Ci<%r+ohn!A1sqAfH/?u?OlsQn-,O/R12`d,aD("lan8bO`G<\.4L<l&LM_Z><FH[_1:MUl`O@sn2c8i(CV.9F9tVP!U2J3Vnq6kUNjh)gc`dp#R+'N8K9*4^)=SrY]]c>SJ+c]/;^1E68;9%8O=4JNDsMCb':Em$,!OZa+-]5703TFPQOdGU7$<BTRXD(,QoEM&-ASZGrKGoi:mZe&aAf(7!89R4T"OD;gS-9h<a:h4a`XQbi%jalMOq6rok;rImNqd;'7\h3)`)@ifT<f=<-p/hY.pd_Dui$U4Lo-]e\.B-$7G';d7q)10rT<g'q"nA[C/%rC,R,M-6Qd$mZ/8#Au-r'#W=ol9_GX+Y3X]6$OX[@g.7+.Va>=_^,eePdoC6^l73Q3Q/Ckatp^"d_`RRbM:UEJ\O,J=p(1p>3![<pl"1%U=BY+]G`Ij&KJm2o,uOKj:7R`R6[>L=@S;u$421nWoJtM,#1_NU)4^OfjAIrYFdmBn;,4(UVr?5m/[eU6@8HO.ZQD(8Xtd3B?-/J:\'Q.h);V4H6V,a(BK`)*06Z^KLF\FE<^'aY)StXIi*CTfQd=&&eX@[*QNY>2HB0U<l*M@n0MEY>84Zu$U(JV-lXfdb)]Flot2ud"]I^<N'q7L5t6,:m!mT`;F<AqQZ26fE1ajXo\F42k%I`L1Wj55hEudn>>s^rJ8_*ebVZaG3`1`AbiL+lnJaMV=52Xodo(J?QoMU:lgjl#;iqE`;p)(=oPoLb#3?>.S"%Q"P9q9g,RK/EV%L[#(s^,G)S*;WW>7!N_'!7G7cOtuRo8+kEV('U`I,G'm5ikDPbFG#)BF-\.H_QChd(!MU:4'phbV+&#5^tO`T+)'2Ri`<DSh*MHh,&3ZDb*$o;0BWB(UaEnPLL0C"g5,(![#h5pk`[1-1i-qPb@UV4X1iN8ENr"g)(o0/!:jn#n*==4kV^(D!@[)-13P6M,PBS$h5#I[`/?@_sL$'TS@X(<ME>nOV"j+HLK,=5!uV6>'nJmH:GVZI))6"kb=cB,adW*LEh,C%\LWjj_i6BJTJMlkGl>RjP=4df:^8]e[!jp"$M!VAf(b>%>''Si/$aeuf>^Zc-HhAhUEo4F2iIR8'-":+'6s]tVKAl1K1NaW"IHR/\1l6Glk\T2Jc8@AAN&&q6(\7@r<EF`iVso=DJ\p4#uT:a(sV^)fuH`QCO3P,<0<(M;Np.l;Qil;qqA]@!MAdquOmCJ@PoouQ[@Y3O&W@#XTY&,[Qqm]_IUK-7Eb'(/R_Z=0gVDg\QM$4*WJ8+?0an!H>ifT-b,-F!T.qk<u97n@X#N"Ri^_6qoYP6Lne1bc<VM^]6C@,BNRO2]E>%RE32e__*mgRk6Sn:2A.'*E_e+9mXZmV[f)Dknc2J'W_Y^i`IDg+G+)'q<s&gN;ga^ehuEW/U\MIIlWEV+<8?b?AO\ec,V^[K<PS\l56/Y'4MZY&<+Spjnn%q$Dh*]R\O5^s\j-?#FbD23KBg/(V?1MoC_*<5)V;CfB!S'OZ,9"9(4Ec8^8ugb3=7r3EJ8B&9G8rE$\Nekn(=!'k`8s1FFM!fEVBh.=*,T5``PB&N2H`gLo1FrBc7W`n,f_uT[uNm(Nslp`H5GjuG(f$VK.mil'[`;<us::Vp?a&0po]+FlJ_:$Y4~>endstream
+Gatm:9lo&I&A@[:Ci>0Z+975D?;fI]4drX>e7PUAp]=<S`'tpb;G&;7oj*ZB89n[t*D)bEKcORY^5#3f),RtJF3bX&k8CqE@_as6'4?CtaDTok9>2a3ieV[)9]ZV7!j*b'`Yr*M]XnO$ipSQFS;ruedc[SHfnm+YCoCCF(FnV4=BYD1P!9R'\J,ebhC&W',fMUj1dQMt.7je;X:PH?AM$Ta^uG,.$CWgE)5<Sr?=!JSH(PO1I2q#O5JcO!h#K'FL6j!gbPTnQr<(_UUd/U.3E&2Ai`\kqbSZqoa/CF5SF]9HpJ=dVAZQIiNSkC*Pi:NT/OBoI23`P.nfm_rFISm>Aed0gC`7eBGF]9Ihik@.:i.I_!(oPeQG(ojmU'-TY!T\;Sk:p/*Yus*mTQ^eJPnLYYA8M@=;ARB-+H)3Fb!Win\/'dDYK_Wg562r`UHu^8=;_4=IRa%&R#Al/1Rql>g4]hR5ViWcLt:a3'W=*cS^slp#+D/4s5GlbkHpUig>?1)fp+[)EsCmF?Uq1FBXn=`ZD9fmRJFJ3=uRXhIk9Xj,%_mM/G*iVK9$9jf78p/F/Rj<c2n$19"uLg$rTNX,1XK*@>jAY)C`[2;Gdk9mmajh>3BuWQ-DKhIDebE)Wo,R*Ii'`q@G*FtA^"@P;>W'jn81]e#_hNb-Z7lPV#k_P/H:&?3koI.sC7)G:rs['>ie%hcB%nlajO&$Km,Z@7&srspXa8rBS$Z_.6m1r(;a1i#2V4G&W_e#RX:?bM5acpVX[.h<e1=-Y#VX*W]cZ]\P/0VkF4phYZQFI#sj<(I*(G?`"\:U7^c:[D1WO@TDh.VoZ8q#X'f4Zdkm3Q<=AGTQ9>])u)3MZ$$pq@V-#ace?SHE">-N<Vn"^c&aQ@[im)Vt<l0UNqGOUt33cU6e[JnFB!>.[miA9uYj44]:,94IILZZNLXLN5`K_C]Houm/5[6a"OBJ@cNX-)pgMu_@"aem<YGV=,M+.\uo:E\G@#WL'W1?$F$W0dT,&IBN^&N)WQ0^HA'3533@b^`k\nI[]\5b)E[G0E)f(P^'494^AN]h#Zlb,Ni8Y'^Lh@`&!fk%LO#gJ++APT(\@+U1>9OPR-jJ%h.5Ut2m*/]i=nK48?.7#mqo`1?eH7&[0fh.F=TG/@.BIqZ%h?Cqe?f^8%_5VjeNaj&d=p-$?_03;<b4BeXkV^V]D>O;L,bZfinj+J,5MBEW~>endstream
 endobj
-205 0 obj
+199 0 obj
 <<
 /DA (/Helv 0 Tf 0 g) /DR << /Encoding
 <<
@@ -2400,15 +2348,15 @@ endobj
   65 0 R 68 0 R 71 0 R 74 0 R 77 0 R 80 0 R 82 0 R 83 0 R 84 0 R 85 0 R 
   86 0 R 87 0 R 88 0 R 89 0 R 90 0 R 91 0 R 94 0 R 97 0 R 98 0 R 99 0 R 
   100 0 R 101 0 R 102 0 R 103 0 R 104 0 R 105 0 R 106 0 R 109 0 R 110 0 R 113 0 R 
-  116 0 R 119 0 R 122 0 R 125 0 R 128 0 R 132 0 R 135 0 R 138 0 R 139 0 R 140 0 R 
-  141 0 R 142 0 R 143 0 R 146 0 R 149 0 R 152 0 R 153 0 R 154 0 R 155 0 R 156 0 R 
-  157 0 R 158 0 R 159 0 R 160 0 R 163 0 R 166 0 R 168 0 R 169 0 R 170 0 R 171 0 R 
-  172 0 R 173 0 R 174 0 R 175 0 R 176 0 R 177 0 R 178 0 R 179 0 R 180 0 R 181 0 R 
-  182 0 R 183 0 R 184 0 R 187 0 R ]
+  116 0 R 119 0 R 122 0 R 125 0 R 128 0 R 131 0 R 134 0 R 136 0 R 137 0 R 138 0 R 
+  139 0 R 140 0 R 143 0 R 146 0 R 149 0 R 150 0 R 151 0 R 152 0 R 153 0 R 154 0 R 
+  155 0 R 156 0 R 157 0 R 160 0 R 161 0 R 162 0 R 163 0 R 164 0 R 165 0 R 166 0 R 
+  167 0 R 168 0 R 169 0 R 170 0 R 172 0 R 173 0 R 174 0 R 175 0 R 176 0 R 177 0 R 
+  178 0 R 181 0 R ]
 >>
 endobj
 xref
-0 206
+0 200
 0000000000 65535 f 
 0000000061 00000 n 
 0000000120 00000 n 
@@ -2466,165 +2414,159 @@ xref
 0000061209 00000 n 
 0000061308 00000 n 
 0000061679 00000 n 
-0000062056 00000 n 
-0000062155 00000 n 
-0000062527 00000 n 
-0000062888 00000 n 
-0000062987 00000 n 
-0000063359 00000 n 
-0000063734 00000 n 
-0000063833 00000 n 
-0000064203 00000 n 
-0000064607 00000 n 
-0000064706 00000 n 
-0000065078 00000 n 
-0000065519 00000 n 
-0000065618 00000 n 
-0000065988 00000 n 
-0000066361 00000 n 
-0000066460 00000 n 
-0000066832 00000 n 
-0000067226 00000 n 
-0000067325 00000 n 
-0000067695 00000 n 
-0000068128 00000 n 
-0000068227 00000 n 
-0000068597 00000 n 
-0000069004 00000 n 
-0000069395 00000 n 
-0000069810 00000 n 
-0000070238 00000 n 
-0000070665 00000 n 
-0000071078 00000 n 
-0000071503 00000 n 
-0000071930 00000 n 
-0000072348 00000 n 
-0000072783 00000 n 
-0000073215 00000 n 
-0000073626 00000 n 
-0000073725 00000 n 
-0000074094 00000 n 
-0000074495 00000 n 
-0000074594 00000 n 
-0000074964 00000 n 
-0000075395 00000 n 
-0000075853 00000 n 
-0000076320 00000 n 
-0000076788 00000 n 
-0000077257 00000 n 
-0000077693 00000 n 
-0000078132 00000 n 
-0000078572 00000 n 
-0000079033 00000 n 
-0000079458 00000 n 
-0000079558 00000 n 
-0000079930 00000 n 
-0000080347 00000 n 
-0000080782 00000 n 
-0000080882 00000 n 
-0000081254 00000 n 
-0000081670 00000 n 
-0000081770 00000 n 
-0000082144 00000 n 
-0000082608 00000 n 
-0000082708 00000 n 
-0000083082 00000 n 
-0000083471 00000 n 
-0000083571 00000 n 
-0000083945 00000 n 
-0000084319 00000 n 
-0000084419 00000 n 
-0000084793 00000 n 
-0000085164 00000 n 
-0000085264 00000 n 
-0000085638 00000 n 
-0000086021 00000 n 
-0000086529 00000 n 
-0000086629 00000 n 
-0000087003 00000 n 
-0000087414 00000 n 
-0000087514 00000 n 
-0000087888 00000 n 
-0000088281 00000 n 
-0000088381 00000 n 
-0000088754 00000 n 
-0000089174 00000 n 
-0000089645 00000 n 
-0000090126 00000 n 
-0000090609 00000 n 
-0000091083 00000 n 
-0000091572 00000 n 
-0000091672 00000 n 
-0000092044 00000 n 
-0000092463 00000 n 
-0000092563 00000 n 
-0000092935 00000 n 
-0000093329 00000 n 
-0000093429 00000 n 
-0000093801 00000 n 
-0000094255 00000 n 
-0000094697 00000 n 
-0000095128 00000 n 
-0000095547 00000 n 
-0000095985 00000 n 
-0000096402 00000 n 
-0000096822 00000 n 
-0000097255 00000 n 
-0000097685 00000 n 
-0000097785 00000 n 
-0000098157 00000 n 
-0000098570 00000 n 
-0000098670 00000 n 
-0000099043 00000 n 
-0000099431 00000 n 
-0000099889 00000 n 
-0000100314 00000 n 
-0000100749 00000 n 
-0000101205 00000 n 
-0000101641 00000 n 
-0000102036 00000 n 
-0000102452 00000 n 
-0000102857 00000 n 
-0000103285 00000 n 
-0000103700 00000 n 
-0000104118 00000 n 
-0000104534 00000 n 
-0000104960 00000 n 
-0000105391 00000 n 
-0000105806 00000 n 
-0000106229 00000 n 
-0000106653 00000 n 
-0000107072 00000 n 
-0000107172 00000 n 
-0000107546 00000 n 
-0000107935 00000 n 
-0000108366 00000 n 
-0000109138 00000 n 
-0000115647 00000 n 
-0000115872 00000 n 
-0000116603 00000 n 
-0000117371 00000 n 
-0000123734 00000 n 
-0000123964 00000 n 
-0000124694 00000 n 
-0000124784 00000 n 
-0000125090 00000 n 
-0000125183 00000 n 
-0000127106 00000 n 
-0000128723 00000 n 
-0000130841 00000 n 
-0000132756 00000 n 
-0000134516 00000 n 
+0000062045 00000 n 
+0000062144 00000 n 
+0000062516 00000 n 
+0000062877 00000 n 
+0000062976 00000 n 
+0000063348 00000 n 
+0000063723 00000 n 
+0000063822 00000 n 
+0000064192 00000 n 
+0000064596 00000 n 
+0000064695 00000 n 
+0000065067 00000 n 
+0000065508 00000 n 
+0000065607 00000 n 
+0000065977 00000 n 
+0000066350 00000 n 
+0000066449 00000 n 
+0000066821 00000 n 
+0000067215 00000 n 
+0000067314 00000 n 
+0000067684 00000 n 
+0000068117 00000 n 
+0000068216 00000 n 
+0000068586 00000 n 
+0000068993 00000 n 
+0000069384 00000 n 
+0000069799 00000 n 
+0000070227 00000 n 
+0000070654 00000 n 
+0000071067 00000 n 
+0000071492 00000 n 
+0000071919 00000 n 
+0000072337 00000 n 
+0000072772 00000 n 
+0000073204 00000 n 
+0000073615 00000 n 
+0000073714 00000 n 
+0000074083 00000 n 
+0000074484 00000 n 
+0000074583 00000 n 
+0000074954 00000 n 
+0000075335 00000 n 
+0000075793 00000 n 
+0000076260 00000 n 
+0000076728 00000 n 
+0000077197 00000 n 
+0000077633 00000 n 
+0000078072 00000 n 
+0000078512 00000 n 
+0000078973 00000 n 
+0000079398 00000 n 
+0000079498 00000 n 
+0000079870 00000 n 
+0000080287 00000 n 
+0000080722 00000 n 
+0000080822 00000 n 
+0000081194 00000 n 
+0000081610 00000 n 
+0000081710 00000 n 
+0000082084 00000 n 
+0000082548 00000 n 
+0000082648 00000 n 
+0000083022 00000 n 
+0000083411 00000 n 
+0000083511 00000 n 
+0000083885 00000 n 
+0000084259 00000 n 
+0000084359 00000 n 
+0000084733 00000 n 
+0000085104 00000 n 
+0000085204 00000 n 
+0000085578 00000 n 
+0000085961 00000 n 
+0000086061 00000 n 
+0000086435 00000 n 
+0000086846 00000 n 
+0000086946 00000 n 
+0000087320 00000 n 
+0000087713 00000 n 
+0000088240 00000 n 
+0000088711 00000 n 
+0000089192 00000 n 
+0000089675 00000 n 
+0000090149 00000 n 
+0000090638 00000 n 
+0000090738 00000 n 
+0000091110 00000 n 
+0000091529 00000 n 
+0000091629 00000 n 
+0000092001 00000 n 
+0000092395 00000 n 
+0000092495 00000 n 
+0000092867 00000 n 
+0000093321 00000 n 
+0000093783 00000 n 
+0000094234 00000 n 
+0000094673 00000 n 
+0000095131 00000 n 
+0000095568 00000 n 
+0000096008 00000 n 
+0000096461 00000 n 
+0000096911 00000 n 
+0000097011 00000 n 
+0000097384 00000 n 
+0000097772 00000 n 
+0000098197 00000 n 
+0000098632 00000 n 
+0000099088 00000 n 
+0000099524 00000 n 
+0000099919 00000 n 
+0000100335 00000 n 
+0000100740 00000 n 
+0000101168 00000 n 
+0000101583 00000 n 
+0000102001 00000 n 
+0000102507 00000 n 
+0000102923 00000 n 
+0000103349 00000 n 
+0000103780 00000 n 
+0000104195 00000 n 
+0000104618 00000 n 
+0000105042 00000 n 
+0000105461 00000 n 
+0000105561 00000 n 
+0000105935 00000 n 
+0000106324 00000 n 
+0000106672 00000 n 
+0000107444 00000 n 
+0000113953 00000 n 
+0000114178 00000 n 
+0000114909 00000 n 
+0000115677 00000 n 
+0000122040 00000 n 
+0000122270 00000 n 
+0000123000 00000 n 
+0000123090 00000 n 
+0000123396 00000 n 
+0000123489 00000 n 
+0000125412 00000 n 
+0000127019 00000 n 
+0000129217 00000 n 
+0000131230 00000 n 
+0000132537 00000 n 
 trailer
 <<
 /ID 
-[<4107262ff6d9c42756f5e8c391f3d90a><4107262ff6d9c42756f5e8c391f3d90a>]
+[<ae5f9ab334fdf0c2b7111ed66d7d2f1b><ae5f9ab334fdf0c2b7111ed66d7d2f1b>]
 % ReportLab generated PDF document -- digest (opensource)
 
-/Info 198 0 R
-/Root 197 0 R
-/Size 206
+/Info 192 0 R
+/Root 191 0 R
+/Size 200
 >>
 startxref
-135380
+133385
 %%EOF
