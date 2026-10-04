@@ -6,8 +6,62 @@
     "mensual = lo que se cobra desde el MES 2 (o todos los meses si implementacion es 0).",
     "Paquetes tipo 'proyecto' (sitio web): pago_unico + mantenimiento (al mes, desde el año 2).",
     "incluye = piezas del paquete. Opciones: meta, google, tiktok, dash, crm, wa, web, seo.",
-    "Después de editar: node gen_props.mjs   (regenera las propuestas en dist/)"
+    "Después de editar: node gen_props.mjs   (regenera las propuestas en dist/)",
+    "tiempos = en qué SEMANA queda activa cada pieza, contando desde que el reloj arranca (accesos + material + primer pago).",
+    "  Lo usan la hoja «Tu primer mes» de cada propuesta y los documentos 5, 8 y 9. En un paquete manda la pieza más lenta.",
+    "  pauta_espera = piezas que tienen que estar listas antes de encender la pauta (los leads llegan ahí)."
   ],
+  "tiempos": {
+    "reloj": "El conteo empieza el día en que tenemos completos los accesos, el material y el primer pago.",
+    "pauta_espera": [
+      "crm",
+      "wa"
+    ],
+    "piezas": {
+      "meta": {
+        "semana": 2,
+        "hito": "Campañas de Meta activas",
+        "por_que": "Verificación del negocio, método de pago y revisión de los anuncios por parte de Meta."
+      },
+      "google": {
+        "semana": 3,
+        "hito": "Campañas de Google Ads activas",
+        "por_que": "Investigación de palabras clave, verificación del anunciante y facturación de Google."
+      },
+      "tiktok": {
+        "semana": 4,
+        "hito": "Campañas de TikTok activas",
+        "por_que": "La conexión y aprobación de la cuenta de TikTok tarda entre 15 y 20 días."
+      },
+      "dash": {
+        "semana": 4,
+        "parcial": 2,
+        "hito": "Tablero completo con todas las plataformas",
+        "hito_parcial": "Tablero en vivo con la primera plataforma",
+        "por_que": "Cada plataforma se suma al tablero cuando queda conectada."
+      },
+      "wa": {
+        "semana": 5,
+        "hito": "Agente de WhatsApp atendiendo",
+        "por_que": "Número verificado, plantillas aprobadas por Meta, entrenamiento y pruebas contigo."
+      },
+      "crm": {
+        "semana": 5,
+        "hito": "CRM en uso por tu equipo",
+        "por_que": "Construcción a tu proceso, conexión de los leads, migración y capacitación del equipo."
+      },
+      "web": {
+        "semana": 4,
+        "hito": "Sitio web publicado y medido",
+        "por_que": "Diseño, tus contenidos, revisión en tu celular y la medición funcionando."
+      },
+      "seo": {
+        "semana": 4,
+        "hito": "Puesta en marcha del SEO terminada",
+        "por_que": "Auditoría, palabras clave y optimización; los resultados se empiezan a ver desde el mes 3."
+      }
+    }
+  },
   "ecus": {
     "marca": "ECUS Agency",
     "correo": "hola@ecusagency.com",
