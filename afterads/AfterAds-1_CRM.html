@@ -139,7 +139,30 @@ body{line-height:1.55;font-size:10.5pt}
 .dl{position:fixed;bottom:22px;right:22px;z-index:99;border:0;letter-spacing:.02em;padding:11px 22px;border-radius:30px;cursor:pointer;display:inline-flex;align-items:center;gap:9px}
 .dl:hover{transform:translateY(-2px)}
 .dl svg{width:17px;height:17px;stroke:#fff;fill:none;stroke-width:2.4;stroke-linecap:round;stroke-linejoin:round}
+/* barra de herramientas de la propuesta (no sale en el PDF) */
+.tools{position:fixed;bottom:22px;right:22px;z-index:99;display:flex;gap:8px;align-items:center;justify-content:flex-end;flex-wrap:wrap;max-width:calc(100vw - 44px)}
+.tools .dl{position:static}
+.tb{border:1px solid var(--line);background:#fff;color:var(--ink);font-family:inherit;font-weight:600;font-size:10pt;line-height:1;padding:12px 16px;border-radius:30px;cursor:pointer;box-shadow:0 4px 16px rgba(20,20,60,.12)}
+.tb:hover{border-color:var(--vio)}
+.tb:focus-visible,.dl:focus-visible,.opcq:focus-visible{outline:2px solid var(--vio);outline-offset:2px}
+.tb[aria-pressed=true]{background:var(--ink);color:#fff;border-color:var(--ink)}
+.tb.opcb[aria-pressed=true]{background:#fff;color:var(--ink);border-color:var(--vio)}
+.tb.opcb[aria-pressed=false]{background:#fff;color:var(--mid);border-style:dashed}
+body.editando .sheet{outline:2px dashed var(--vio);outline-offset:-6px}
+body.editando .sheet:focus-within{outline-style:solid}
+.ed.falta{box-shadow:inset 0 -2px 0 #B4540A}
+.opcbar{display:flex;justify-content:space-between;align-items:center;gap:4mm;flex-wrap:wrap;padding:3mm 4mm;margin-bottom:6mm;border:1px dashed var(--vio);border-radius:8px;font-size:8.8pt;color:var(--mid)}
+.opcq{border:1px solid var(--vio);background:#fff;color:var(--vio);font-family:inherit;font-weight:600;font-size:9pt;padding:2mm 4mm;border-radius:30px;cursor:pointer}
+.opcq:hover{background:var(--vio);color:#fff}
+.opcincl{padding:0!important}
+.opcrow .d{max-width:95mm}
 @media screen and (max-width:230mm){
+  body{padding-bottom:130px}
+  .tools{left:10px;right:10px;bottom:10px;max-width:none;justify-content:center;gap:6px}
+  .tb,.tools .dl{font-size:13px;padding:10px 13px}
+  .tools .dl svg{width:15px;height:15px}
+  .prow.opcrow{flex-wrap:wrap}
+  .prow.opcrow .amt{margin-left:auto}
   body{font-size:10pt}
   .sheet,.banner{width:auto;max-width:100%;margin:4mm 3mm;min-height:0}
   .pad{padding:8mm 6mm}
@@ -155,7 +178,9 @@ body{line-height:1.55;font-size:10.5pt}
 @media print{
   @page{size:A4;margin:0}
   body{background:#fff}
-  .banner,.dl{display:none!important}
+  .banner,.dl,.tools,.opcbar{display:none!important}
+  body.editando .sheet{outline:0!important}
+  .ed.falta{box-shadow:none!important}
   .sheet{margin:0;box-shadow:none;break-after:page;page-break-after:always;min-height:297mm;height:297mm}
   .sheet:last-of-type{break-after:auto;page-break-after:auto}
   .card,.offer,.comp,.proof,.step{break-inside:avoid;page-break-inside:avoid}
@@ -230,9 +255,16 @@ h3{font-family:'PoppinsAA';font-weight:700;color:var(--ink);font-size:12.5pt;lin
 </style></head><body>
 
 <div class="banner"><b>Cómo usar esta propuesta:</b> lo que tiene <b>subrayado punteado</b> se edita con un clic
-(nombre del cliente, precios, fecha, contacto). Cuando esté lista, usa <b>Descargar PDF</b> abajo a la derecha.
-Este aviso no sale en el PDF.</div>
-<button class="dl" onclick="window.print()"><svg viewBox="0 0 24 24"><path d="M12 3v11m0 0l-4-4m4 4l4-4M5 20h14"/></svg>Descargar PDF</button>
+(nombre del cliente, precios, fecha, contacto). Para cambiar <b>cualquier otro texto</b>, activa <b>Editar todo el texto</b>.
+Tus cambios se guardan en este
+navegador; <b>Volver al original</b> los borra. Cuando esté lista, usa <b>Descargar PDF</b>. En el celular, si el botón
+no abre nada, abre el enlace en Safari o Chrome. Este aviso no sale en el PDF.</div>
+<div class="tools" role="toolbar" aria-label="Herramientas de la propuesta">
+  <button type="button" class="tb" id="tReset" hidden>Volver al original</button>
+  
+  <button type="button" class="tb" id="tEdit" aria-pressed="false">Editar todo el texto</button>
+  <button type="button" class="dl" id="tPdf"><svg viewBox="0 0 24 24"><path d="M12 3v11m0 0l-4-4m4 4l4-4M5 20h14"/></svg>Descargar PDF</button>
+</div>
 
 <!-- 1 · PORTADA -->
 <div class="sheet cover">
@@ -245,7 +277,7 @@ Este aviso no sale en el PDF.</div>
   </div>
   <div class="pad z">
     <div class="covergrid">
-      <div class="coverbox"><div class="kk">Preparada para</div><div class="vv"><span class="ed" contenteditable="true">Nombre del cliente</span></div></div>
+      <div class="coverbox"><div class="kk">Preparada para</div><div class="vv"><span class="ed falta" contenteditable="true">Nombre del cliente</span></div></div>
       <div class="coverbox"><div class="kk">Plan</div><div class="vv">CRM a la medida</div></div>
     </div>
     <div class="sfoot" style="padding:8mm 0 0"><span>Ads / CRM / Revenue</span><span><span class="ed" contenteditable="true">Octubre 2026</span></span></div>
@@ -259,8 +291,7 @@ Este aviso no sale en el PDF.</div>
   <div class="pad grow">
     <div class="eyebrow">Lo que se implementa y se mantiene</div>
     <h2 class="h2">Captar · Seguir · Cerrar</h2>
-    <p class="lead" style="margin-bottom:7mm">Cada pieza del plan cubre un momento del recorrido de tu cliente.
-      Esto es exactamente lo que incluye:</p>
+    <p class="lead" style="margin-bottom:7mm">Cada pieza del plan cubre un momento del recorrido de tu cliente. Esto es exactamente lo que incluye:</p>
     <div class="stack"><div class="comp"><div class="compn">01</div>
       <div><div class="ct">Cierre</div><h4>CRM a la medida</h4><p>Todo el contacto con tus clientes en un solo lugar, desde que entra el lead hasta que compra: embudo con tus etapas, seguimiento con plazos, cotizaciones, ventas con monto y un tablero para la gerencia.</p></div></div></div>
     <h3 style="margin:8mm 0 3.5mm">El recorrido, de punta a punta</h3>
@@ -269,11 +300,10 @@ Este aviso no sale en el PDF.</div>
   <div class="pad" style="padding-top:0">
     <div class="card acc">
       <h3>Lo ves antes de decidir</h3>
-      <p style="font-size:9.4pt;margin-top:1.5mm;max-width:150mm">En la reunión te mostramos el sistema funcionando con datos
-        de ejemplo, y lo armamos sobre <b>tu proceso comercial</b>, no sobre una plantilla.</p>
+      <p style="font-size:9.4pt;margin-top:1.5mm;max-width:150mm">En la reunión te mostramos el sistema funcionando con datos de ejemplo, y lo armamos sobre <b>tu proceso comercial</b>, no sobre una plantilla.</p>
     </div>
   </div>
-  <div class="sfoot"><span>After Ads · Propuesta comercial</span><span>2 / 5</span></div>
+  <div class="sfoot"><span>After Ads · Propuesta comercial</span><span class="pg">2 / 5</span></div>
 </div>
 
 <!-- 3 · RESULTADOS -->
@@ -297,10 +327,9 @@ Este aviso no sale en el PDF.</div>
     </div>
     <h3 style="margin:7mm 0 3.5mm">Qué esperar</h3>
     <div class="tl"><div class="tli"><div class="tk">Mes 1</div><h6>Construcción</h6><p>Se construye y se conecta todo. La pauta sale al cierre del mes, cuando el sistema ya puede recibir a cada lead.</p></div><div class="tli"><div class="tk">Mes 2 y 3</div><h6>Ajuste fino</h6><p>Ya se sabe qué creativo y qué público rinden. Se corta lo que no funciona y se concentra la inversión donde sí.</p></div><div class="tli"><div class="tk">Mes 4 en adelante</div><h6>Escala</h6><p>Con el CRM midiendo hasta la venta, se sube la inversión sobre lo que ya está probado, no sobre suposiciones.</p></div></div>
-    <p style="font-size:8pt;color:var(--soft);margin-top:6mm;line-height:1.4">Los resultados varían según categoría,
-      presupuesto y competencia. Se comparten como referencia de lo logrado, no como garantía de resultado.</p>
+    <p style="font-size:8pt;color:var(--soft);margin-top:6mm;line-height:1.4">Los resultados varían según categoría, presupuesto y competencia. Se comparten como referencia de lo logrado, no como garantía de resultado.</p>
   </div>
-  <div class="sfoot"><span>After Ads · Propuesta comercial</span><span>3 / 5</span></div>
+  <div class="sfoot"><span>After Ads · Propuesta comercial</span><span class="pg">3 / 5</span></div>
 </div>
 
 <!-- 4 · TU PRIMER MES -->
@@ -339,7 +368,7 @@ Este aviso no sale en el PDF.</div>
       <div><h3 style="margin-bottom:2.5mm">Desde el mes 2</h3><p class="ten-p">Ya con todo funcionando, el trabajo es <b>gestionar y mejorar</b>: optimización semanal, reporte mensual y soporte. Por eso desde el segundo mes pagas solo la mensualidad.</p></div>
     </div>
   </div>
-  <div class="sfoot"><span>After Ads · Propuesta comercial</span><span>4 / 5</span></div>
+  <div class="sfoot"><span>After Ads · Propuesta comercial</span><span class="pg">4 / 5</span></div>
 </div>
 
 <!-- 5 · INVERSIÓN -->
@@ -359,8 +388,8 @@ Este aviso no sale en el PDF.</div>
     <div class="prow" data-when="A1:impl"><div><b>Desde el mes 2</b>
       <span class="d">Gestión, soporte, ajustes y optimización</span></div>
       <div class="amt">$<span class="ed" contenteditable="true" data-k="A1.mensual">100</span> <small>/mes</small></div></div>
-    <div class="why" data-when="A1:impl"><b>¿Por qué el primer mes es mayor?</b> Incluye la <b>implementación completa</b>:
-      dejar todo creado, conectado y probado. Desde el <b>segundo mes</b> pagas solo la mensualidad.</div>
+    <div class="why" data-when="A1:impl"><b>¿Por qué el primer mes es mayor?</b> Incluye la <b>implementación completa</b>: dejar todo creado, conectado y probado. Desde el <b>segundo mes</b> pagas solo la mensualidad.</div>
+      
       <div class="incltitle">Incluye</div>
       <ul class="incl"><li>Embudo con tus etapas, seguimiento con plazos y alertas</li><li>Leads de formularios y WhatsApp entrando solos, con su origen</li><li>Cotizaciones, ventas con monto y tablero para gerencia</li><li>Usuarios ilimitados, con roles y permisos</li></ul>
       
@@ -375,18 +404,79 @@ Este aviso no sale en el PDF.</div>
     <div class="card" style="display:flex;justify-content:space-between;align-items:flex-end;gap:5mm;flex-wrap:wrap">
       <div><h3>After Ads</h3>
         <p style="font-size:9.4pt;color:var(--mid);margin-top:1mm"><span class="ed" contenteditable="true">correo@afterads</span> · <span class="ed" contenteditable="true">+507 0000-0000</span></p></div>
-      <p style="font-size:7.6pt;color:var(--soft);max-width:80mm;text-align:right;line-height:1.4">Precios en USD. Propuesta
-        sujeta a ajuste según el alcance final. Los valores de terceros (Meta, Google, TikTok, WhatsApp API) son estimados y pueden variar.</p>
+      <p style="font-size:7.6pt;color:var(--soft);max-width:80mm;text-align:right;line-height:1.4">Precios en USD. Propuesta sujeta a ajuste según el alcance final. Los valores de terceros (Meta, Google, TikTok, WhatsApp API) son estimados y pueden variar.</p>
     </div>
   </div>
-  <div class="sfoot"><span>After Ads · Propuesta comercial</span><span>5 / 5</span></div>
+  <div class="sfoot"><span>After Ads · Propuesta comercial</span><span class="pg">5 / 5</span></div>
 </div>
+
 <script>
 (function(){ /* marca la hoja que se pasa del A4 (la revisa build.sh, como en los documentos) */
   var A4 = 297 * 96 / 25.4 + 2;
   function chk(){ if (innerWidth < 800) return;
     document.querySelectorAll('.sheet').forEach(function(s){ s.classList.toggle('over', s.offsetHeight > A4); }); }
   addEventListener('load', chk); document.addEventListener('input', chk);
+})();
+</script>
+<script>
+(function(){
+  var KEY='propuesta:'+"AfterAds-1_CRM:mv6tc3j8";
+  var hojas=function(){return [].slice.call(document.querySelectorAll('.sheet'));};
+  var bE=document.getElementById('tEdit'), bR=document.getElementById('tReset'), bP=document.getElementById('tPdf');
+  function lee(){try{return JSON.parse(localStorage.getItem(KEY)||'null');}catch(e){return null;}}
+  function escribe(v){try{localStorage.setItem(KEY,JSON.stringify(v));return true;}catch(e){return false;}}
+  function borra(){try{localStorage.removeItem(KEY);}catch(e){}}
+  /* 1 · lo guardado en este navegador (solo si la página es la misma versión y tiene las mismas hojas) */
+  var g=lee();
+  if(g&&g.h&&g.h.length===hojas().length){hojas().forEach(function(s,i){s.innerHTML=g.h[i];s.hidden=!!(g.x&&g.x[i]);});bR.hidden=false;}
+  function numera(){var v=hojas().filter(function(s){return !s.hidden;});
+    v.forEach(function(s,i){var p=s.querySelector('.pg');if(p)p.textContent=(i+1)+' / '+v.length;});}
+  var t; function guarda(){clearTimeout(t);t=setTimeout(function(){
+    if(escribe({h:hojas().map(function(s){return s.innerHTML;}),x:hojas().map(function(s){return s.hidden?1:0;})}))bR.hidden=false;},350);}
+  /* 2 · al escribir: marca el monto tocado (para que el precio vivo no lo pise), sincroniza copias y guarda */
+  function aqui(e){var s=window.getSelection&&getSelection(),n=s&&s.anchorNode;var el=n?(n.nodeType===1?n:n.parentElement):e.target;return el||e.target;}
+  document.addEventListener('input',function(e){
+    var el=aqui(e); if(!el.closest)return;
+    var k=el.closest('[data-k]'); if(k)k.dataset.tocado='1';
+    var f=el.closest('.falta'); if(f)f.classList.remove('falta');
+    var y=el.closest('[data-sync]');
+    if(y)document.querySelectorAll('[data-sync="'+y.dataset.sync+'"]').forEach(function(o){if(o!==y){o.textContent=y.textContent;o.classList.remove('falta');}});
+    guarda();
+  });
+  /* 3 · editar todo el texto */
+  function editar(on){hojas().forEach(function(s){if(on)s.setAttribute('contenteditable','true');else s.removeAttribute('contenteditable');});
+    document.body.classList.toggle('editando',on);bE.setAttribute('aria-pressed',on?'true':'false');
+    bE.textContent=on?'Listo, dejar de editar':'Editar todo el texto';}
+  bE.addEventListener('click',function(){editar(bE.getAttribute('aria-pressed')!=='true');});
+  /* Ctrl+A / Cmd+A selecciona solo el dato o el párrafo donde está el cursor (con la hoja entera editable, el navegador
+     seleccionaría la hoja completa y al escribir un monto se borraría todo). */
+  document.addEventListener('keydown',function(e){
+    if(!(e.ctrlKey||e.metaKey)||(e.key!=='a'&&e.key!=='A'))return;
+    var el=aqui(e); if(!el.closest||!el.closest('[contenteditable=true]'))return;
+    var b=el.closest('.ed,p,h1,h2,h3,h4,h5,h6,li,.t,.vv,.kk,.k'); if(!b)return;
+    e.preventDefault(); var r=document.createRange(); r.selectNodeContents(b); var s=getSelection(); s.removeAllRanges(); s.addRange(r);
+  });
+  /* 4 · hojas opcionales */
+  function opc(k,on){document.querySelectorAll('[data-opcional="'+k+'"]').forEach(function(s){s.hidden=!on;});
+    document.querySelectorAll('.opcb[data-opc="'+k+'"]').forEach(function(b){b.setAttribute('aria-pressed',on?'true':'false');
+      b.textContent=b.title.split(':')[0]+(on?': incluido':': quitado (poner de nuevo)');});
+    numera();}
+  document.querySelectorAll('.opcb').forEach(function(b){var k=b.dataset.opc;
+    var s=document.querySelector('.sheet[data-opcional="'+k+'"]'); opc(k,!(s&&s.hidden));
+    b.addEventListener('click',function(){opc(k,b.getAttribute('aria-pressed')!=='true');guarda();});});
+  document.addEventListener('click',function(e){var q=e.target.closest&&e.target.closest('[data-quitar]');
+    if(q){e.preventDefault();opc(q.dataset.quitar,false);guarda();var b=document.querySelector('.opcb[data-opc="'+q.dataset.quitar+'"]');if(b)b.focus();}});
+  numera();
+  /* 5 · volver al original */
+  bR.addEventListener('click',function(){if(confirm('¿Borrar los cambios guardados en este navegador y volver a la propuesta original?')){borra();location.reload();}});
+  /* 6 · descargar: avisa si quedan datos sin llenar en lo que sí va a salir */
+  bP.addEventListener('click',function(){
+    var f=[].slice.call(document.querySelectorAll('.falta')).filter(function(x){return x.offsetParent!==null;});
+    if(f.length){var l=[];f.forEach(function(x){var v=x.textContent.trim();if(l.indexOf(v)<0)l.push(v);});
+      if(!confirm('Faltan datos por llenar: '+l.join(', ')+'.\n\n¿Descargar el PDF de todas formas?')){f[0].scrollIntoView({block:'center'});f[0].focus();return;}}
+    if(document.activeElement)document.activeElement.blur();
+    window.print();
+  });
 })();
 </script>
 <script>

@@ -189,6 +189,44 @@
         "permanencia": "3 meses"
       },
       {
+        "id": "A3D",
+        "archivo": "AfterAds-3D_Dash-Meta-Google",
+        "titulo": "Dashboard + Pauta Meta + Google Ads",
+        "incluye": [
+          "meta",
+          "google",
+          "dash"
+        ],
+        "implementacion": 200,
+        "mensual": 200,
+        "permanencia": "3 meses",
+        "docx": true,
+        "lugar": "Ads / Dashboard / Revenue",
+        "opcionales": [
+          "contenido"
+        ],
+        "tiempos": {
+          "semanas": {
+            "meta": 3
+          },
+          "intro": "El primer mes es de <b>implementación</b>. Aquí la pauta no espera a ninguna otra pieza: <b>en la semana 3 ya hay campañas activas</b> en Meta y en Google, con el tablero midiendo desde el primer día.",
+          "campanas": "Salen juntas y el tablero las mide desde el primer día.",
+          "trabajo": {
+            "1": [
+              "Reunión de inicio y revisión de accesos",
+              "Estrategia, públicos y estructura de campañas en Meta",
+              "Investigación de palabras clave y lo que busca tu cliente",
+              "Conexión del tablero a tus cuentas publicitarias"
+            ],
+            "2": [
+              "Anuncios de Meta armados y en revisión",
+              "Campañas de búsqueda armadas y verificación del anunciante en Google",
+              "Tablero conectado a tu registro de ventas, para que los números cuadren"
+            ]
+          }
+        }
+      },
+      {
         "id": "A4",
         "archivo": "AfterAds-4_CRM-Meta-TikTok",
         "titulo": "CRM + Pauta Meta + TikTok Ads",
