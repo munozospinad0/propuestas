@@ -76,8 +76,8 @@
           "meta",
           "dash"
         ],
-        "implementacion": 150,
-        "mensual": 150,
+        "implementacion": 160,
+        "mensual": 160,
         "permanencia": "3 meses"
       },
       {
@@ -116,8 +116,8 @@
           "tiktok",
           "dash"
         ],
-        "implementacion": 300,
-        "mensual": 300,
+        "implementacion": 220,
+        "mensual": 220,
         "permanencia": "3 meses"
       },
       {
@@ -127,7 +127,7 @@
         "incluye": [
           "wa"
         ],
-        "implementacion": 350,
+        "implementacion": 200,
         "mensual": 60,
         "permanencia": "Sin permanencia"
       },
@@ -140,8 +140,8 @@
           "dash",
           "wa"
         ],
-        "implementacion": 500,
-        "mensual": 200,
+        "implementacion": 390,
+        "mensual": 190,
         "permanencia": "3 meses"
       }
     ]
