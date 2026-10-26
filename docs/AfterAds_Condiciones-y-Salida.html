@@ -273,6 +273,24 @@ h3.sub{margin:5.5mm 0 2.5mm}
 .tb tr.grp td{background:var(--paper);font-size:6.8pt;letter-spacing:.14em;text-transform:uppercase;color:var(--vio);font-weight:700;padding:1.6mm 2.4mm}
 .note{background:var(--paper);border-left:3px solid var(--hi);border-radius:0 8px 8px 0;padding:3.2mm 4.5mm;font-size:9pt;color:var(--mid);line-height:1.5;margin:3.5mm 0}
 .note b{color:var(--ink)}
+.plan{border:2px solid var(--vio);background:var(--hi-t);border-radius:12px;padding:4mm 5mm;margin:0 0 5mm;color:var(--ink);font-size:13.5pt;font-weight:700;line-height:1.3}
+.plan small{display:block;margin-top:1.5mm;font-size:9.5pt;font-weight:400;color:var(--mid);line-height:1.45}
+.ck{border:1px solid var(--line);border-radius:10px;padding:3mm 4mm 2.4mm;margin:2.6mm 0;background:#fff;break-inside:avoid}
+.ck-t{display:flex;justify-content:space-between;align-items:baseline;gap:3mm}
+.ck-t .sub{margin:0}
+.ck-si{font-size:7.4pt;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--vio);white-space:nowrap}
+.ck-l{list-style:none;margin:1.6mm 0 0;padding:0}
+.ck-l li{display:grid;grid-template-columns:4.2mm 1fr;gap:2.4mm;padding:1.3mm 0;border-top:1px solid var(--line);font-size:9pt;line-height:1.35}
+.ck-l li:first-child{border-top:0}
+.ck-l b{display:block;color:var(--ink)}
+.ck-l span{color:var(--mid);font-size:8.4pt}
+.ck-l span b{display:inline}
+.cx{width:3.6mm;height:3.6mm;border:1.4px solid var(--vio);border-radius:1mm;margin-top:.4mm}
+.ck-como{font-size:8.6pt;color:var(--mid);margin-top:1.6mm;line-height:1.45}
+.ck-como b{color:var(--ink)}
+.ck-nota{font-size:8.2pt;color:var(--mid);margin-top:1mm;font-style:italic}
+.plan.corto{font-size:11pt;padding:2.6mm 4mm;margin-bottom:3mm}
+.dep{font-size:8.6pt;font-weight:400;color:var(--mid);letter-spacing:0;text-transform:none}
 .kgrid{display:grid;grid-template-columns:1fr 1fr;gap:3.5mm;margin:2mm 0 4mm}
 .kbox{border:1px solid var(--line);border-radius:10px;padding:3.2mm 4mm;background:#fff}
 .kbox .k{font-size:6.6pt;letter-spacing:.14em;text-transform:uppercase;color:var(--soft);font-weight:700}
@@ -365,6 +383,46 @@ h3.sub{margin:5.5mm 0 2.5mm}
 .dk .txl i{background:rgba(255,255,255,.35)}
 /* diagrama del ciclo */
 .loop{width:100%;height:auto;margin:1mm 0 3mm;font-family:inherit}
+/* checklist del cliente en una hoja (.uno): todo el texto a 9 pt o más, gris de texto con contraste AA (--mid, no --soft) */
+.uno{text-rendering:geometricPrecision}
+.uno .shead{padding:7mm 12mm 0}
+.uno .shead .r .k,.uno .sfoot{font-size:9pt;letter-spacing:.06em;color:var(--mid)}
+.uno .shead .r .t{font-size:12pt}
+.uno .sfoot{padding:0 12mm 6.5mm}
+.uno .rule{margin:3mm 12mm 0}
+.c1{padding:3.4mm 12mm 2.4mm;display:flex;flex-direction:column;justify-content:space-between}
+h1.c1-t{font-size:20pt;line-height:1.05;color:var(--ink);letter-spacing:-.02em}
+.b-ecus h1.c1-t{font-size:24pt;line-height:.95;color:var(--vio);letter-spacing:.01em}
+.c1-plan{background:var(--vio);color:#fff;border-radius:10px;padding:2.6mm 5mm 2.8mm;margin:2.8mm 0 2.6mm;font-size:12pt;font-weight:700;line-height:1.25}
+.b-aa .c1-plan{color:var(--lime);letter-spacing:-.01em}
+.b-ecus .c1-plan{box-shadow:4px 4px 0 var(--org);margin-right:1mm}
+.c1-plan small{display:block;margin-top:.8mm;font-size:9pt;font-weight:400;line-height:1.38;letter-spacing:0}
+.b-aa .c1-plan small{color:rgba(252,249,242,.86)}
+.c1-plan small b{font-weight:600}
+.c1 .card.c1-b{padding:2mm 3.4mm 2.2mm;break-inside:avoid}
+.b-ecus .c1 .card.c1-b{box-shadow:3px 3px 0 var(--vio);border-width:1.5px}
+.c1-h{display:flex;justify-content:space-between;align-items:baseline;gap:3mm;margin-bottom:1.1mm}
+.c1-h h3{font-size:11.5pt;line-height:1.1;color:var(--ink)}
+.b-ecus .c1-h h3{font-size:13.5pt;line-height:1;color:var(--vio)}
+.c1-h span{font-size:9pt;color:var(--mid);white-space:nowrap}
+.c1-l{list-style:none;display:grid;gap:.6mm}
+.c1-l li{display:grid;grid-template-columns:3.6mm 1fr;gap:2mm;font-size:9pt;line-height:1.28;color:var(--mid)}
+.c1-l li b{color:var(--ink)}
+.c1-l .cx{width:3.6mm;height:3.6mm;margin-top:.2mm;background:#fff}
+.c1-b.ancho .c1-l{grid-template-columns:1fr 1fr;column-gap:6mm}
+.c1 .c1-todos{margin-bottom:2.3mm}
+.b-ecus .c1 .c1-todos{margin-bottom:4mm}
+.b-ecus .c1-g{gap:4mm}
+.c1-g{display:grid;grid-template-columns:1fr 1fr;gap:2.3mm}
+.c1-g>.c1-b.ancho{grid-column:1/-1}
+.c1-como{font-size:9pt;color:var(--mid);line-height:1.32;margin-top:1.2mm;padding-top:1.1mm;border-top:1px dashed var(--line)}
+.c1-como b{color:var(--ink)}
+.c1-r{color:var(--vio);font-weight:700}
+.c1-pie{margin-top:2.6mm}
+.c1-pie div{background:var(--paper);border-left:3px solid var(--hi);border-radius:0 8px 8px 0;padding:2mm 4mm;font-size:9pt;line-height:1.36;color:var(--mid)}
+.b-aa .c1-pie div{border:1px solid var(--line);border-left:3px solid var(--vio)}
+.c1-pie b{color:var(--ink)}
+@media screen and (max-width:230mm){.c1-g,.c1-b.ancho .c1-l{grid-template-columns:1fr}.c1-h{flex-wrap:wrap}}
 /* hoja pasada de tamaño (solo pantalla) */
 @media screen{.sheet.over{outline:3px solid #d33}
 .sheet.over::before{content:'Esta hoja se pasó del tamaño A4: acorta el texto o se cortará en el PDF';position:absolute;z-index:9;top:2mm;left:50%;transform:translateX(-50%);background:#d33;color:#fff;font:600 9pt system-ui;padding:1.2mm 3mm;border-radius:4px;white-space:nowrap}}
